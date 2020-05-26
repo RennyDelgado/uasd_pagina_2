@@ -64,7 +64,6 @@
       </div>
   </div>
 
-
   <div class="no-blanco card col-lg-3 col-md-3 col-xs-3">
   	 <div class="fondo-noticia" style="background-image:url(img/tres.jpg)">
         <a href="#" class="academia">ACADEMIA</a>
