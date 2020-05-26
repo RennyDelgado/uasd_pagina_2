@@ -1,0 +1,45 @@
+.megamenu-li {
+  position: static;
+}
+
+.megamenu {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  right: 0;
+  padding: 15px;
+}
+
+.bg-light {
+    background-color: #17499e!important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 13px;
+}
+
+.navbar-light .navbar-toggler {
+    color: #fff;
+    border-color: #fff;
+}
+
+.navbar-brand { margin-right:0rem!important; }
+
+.fondo-menu {background-color: #17499e;}
+
+
+.conoce_mas { float: left; }
+
+.menu-top a {font-size:11px;margin-right:0.5rem; color: #6d6d6d;}
+
+.menu-top .seccion a {font-size: 11px;margin-right: 1rem; color: blue;}
+
+
+
+
+
+
+
+
+

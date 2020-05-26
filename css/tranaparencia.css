@@ -1,0 +1,1825 @@
+/* Input */
+.search-form label input[type=search]{
+	right:19px;
+	right:19px;
+}
+
+/* Enlaces */
+#site-header .enlaces{
+	position:relative;
+	position:relative;
+}
+
+#masthead #page #site-header .enlaces{
+	bottom:auto !important;
+	bottom:auto !important;
+}
+
+#main #main-content #primary #content article{
+	width:80% !important;
+	width:80% !important;
+}
+
+/* Article */
+#content article{
+	position:relative;
+	top:0px;
+	position:relative;
+	top:0px;
+}
+
+/* Input */
+.search-submit{
+	display:block !important;
+	position:absolute !important;
+	top:80px !important;
+	left:1420px !important;
+	font-size:0px !important;
+	padding-right:5px !important;
+	background-color:#ecf0f1 !important;
+	background-image:url(http://bnphu.gob.do/wptransparencia/wp-content/uploads/2019/10/icons8-google-web-search-26-5.png);
+	background-size:contain;
+	display:block !important;
+	position:absolute !important;
+	top:80px !important;
+	left:1420px !important;
+	font-size:0px !important;
+	padding-right:5px !important;
+	background-color:#ecf0f1 !important;
+	background-image:url(http://bnphu.gob.do/wptransparencia/wp-content/uploads/2019/10/icons8-google-web-search-26-5.png);
+	background-size:contain;
+}
+
+#masthead #page #site-header div aside .search-form input[type=submit]{
+	height:38px !important;
+	width:38px !important;
+	height:38px !important;
+	width:38px !important;
+}
+
+/* 1280px and below screen sizes */
+@media (max-width:1280px){
+
+	/* Site info */
+	#colophon .site-info{
+		top:2530px;
+		top:240%;
+		width:95.5% !important;
+		top:2530px;
+		top:240%;
+		width:95.5% !important;
+		top:2530px;
+		top:240%;
+		width:95.5% !important;
+		top:2530px;
+		top:240%;
+		width:95.5% !important;
+	}
+	
+	/* Entry Content */
+	#content .hentry .entry-content{
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+	}
+	
+	/* Paragraph */
+	.hentry p{
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+		word-wrap:break-word;
+	}
+	
+	#colophon .site-infot{
+		width:2530px;
+		width:2530px;
+		width:2530px;
+		width:2530px;
+	}
+	
+	#colophon .site-infoto{
+		width:2530px;
+		width:2530px;
+		width:2530px;
+		width:2530px;
+	}
+	
+	/* Img responsive2 */
+	#site-header .img-responsive2{
+		position:relative;
+		top:5px;
+		left:487px !important;
+		position:relative;
+		top:5px;
+		left:487px !important;
+		position:relative;
+		top:5px;
+		left:487px !important;
+		position:relative;
+		top:5px;
+		left:487px !important;
+	}
+	
+	/* Input */
+	.search-form label input[type=search]{
+		width:254px;
+		bottom:25px;
+		left:860px !important;
+		width:254px;
+		bottom:25px;
+		left:860px !important;
+		width:254px;
+		bottom:25px;
+		left:860px !important;
+		width:254px;
+		bottom:25px;
+		left:860px !important;
+	}
+	
+	/* Header main */
+	#site-header .header-main{
+		position:relative;
+		top:-19px;
+		left:0px;
+		position:relative;
+		top:-19px;
+		left:0px;
+		position:relative;
+		top:-19px;
+		left:0px;
+		position:relative;
+		top:-19px;
+		left:0px;
+	}
+	
+	/* Enlaces */
+	#site-header .enlaces{
+		position:relative;
+		left:862px !important;
+		top:-19px !important;
+		position:relative;
+		left:862px !important;
+		top:-19px !important;
+		position:relative;
+		left:862px !important;
+		top:-19px !important;
+		position:relative;
+		left:862px !important;
+		top:-19px !important;
+	}
+	
+	#masthead #page #site-header .enlaces{
+		width:20% !important;
+		right:auto !important;
+		bottom:auto !important;
+		width:20% !important;
+		right:auto !important;
+		bottom:auto !important;
+		width:20% !important;
+		right:auto !important;
+		bottom:auto !important;
+		width:20% !important;
+		right:auto !important;
+		bottom:auto !important;
+	}
+	
+	/* Article */
+	#content article{
+		position:relative;
+		top:0px;
+		left:110px !important;
+		position:relative;
+		top:0px;
+		left:110px !important;
+		position:relative;
+		top:0px;
+		left:110px !important;
+		position:relative;
+		top:0px;
+		left:110px !important;
+	}
+	
+	/* Secondary */
+	#secondary{
+		position:relative;
+		top:-18px;
+		left:65px;
+		height:1058px;
+		position:relative;
+		top:-18px;
+		left:65px;
+		height:1058px;
+		position:relative;
+		top:-18px;
+		left:65px;
+		height:1058px;
+		position:relative;
+		top:-18px;
+		left:65px;
+		height:1058px;
+	}
+	
+	/* Image */
+	#site-header .header-main img{
+		position:relative;
+		left:35px;
+		position:relative;
+		left:35px;
+		position:relative;
+		left:35px;
+		position:relative;
+		left:35px;
+	}
+	
+	/* Responsive */
+	#site-header .img-responsive{
+		position:relative;
+		top:0px;
+		left:55px;
+		position:relative;
+		top:0px;
+		left:55px;
+		position:relative;
+		top:0px;
+		left:55px;
+		position:relative;
+		top:0px;
+		left:55px;
+	}
+	
+	#masthead #page #site-header .header-main{
+		width:95.3% !important;
+		width:95.3% !important;
+		width:95.3% !important;
+		width:95.3% !important;
+	}
+	
+	#main #main-content #primary #content .hentry .entry-content .wpfd-content-table .wpfd-flex-container .wpfd-container-table .mediaTableWrapperWithMenu{
+		height:1% !important;
+		height:1% !important;
+		height:1% !important;
+		height:1% !important;
+	}
+	
+	/* Image */
+	#site-header a img{
+		position:relative;
+		left:100px;
+		top:10px !important;
+		position:relative;
+		left:100px;
+		top:10px !important;
+		position:relative;
+		left:100px;
+		top:10px !important;
+		position:relative;
+		left:100px;
+		top:10px !important;
+	}
+	
+	/* Division */
+	.hentry .wpfd-container-table{
+		height:573px;
+		height:573px;
+		height:573px;
+		height:573px;
+	}
+	
+	/* Input */
+	.search-submit{
+		right:1px;
+		top:87px !important;
+		left:1120px !important;
+		right:1px;
+		top:87px !important;
+		left:1120px !important;
+		right:1px;
+		top:87px !important;
+		left:1120px !important;
+		right:1px;
+		top:87px !important;
+		left:1120px !important;
+	}
+	
+	/* Image */
+	#site-header img{
+		position:relative;
+		top:5px !important;
+		position:relative;
+		top:5px !important;
+		position:relative;
+		top:5px !important;
+		position:relative;
+		top:5px !important;
+	}
+	
+	#masthead #page .header-main img{
+		top:-1px !important;
+		top:-1px !important;
+		top:-1px !important;
+		top:-1px !important;
+	}
+	
+}
+
+/* 1080px and below screen sizes */
+@media (max-width:1080px){
+
+	#masthead #page #site-header .enlaces{
+		width:29% !important;
+		right:auto !important;
+	}
+	
+	/* Input */
+	.search-form label input[type=search]{
+		left:760px !important;
+	}
+	
+	#masthead #page #site-header .header-main{
+		width:94.3% !important;
+	}
+	
+	/* Site info */
+	#colophon .site-info{
+		width:94% !important;
+	}
+	
+	/* Header main */
+	#site-header .header-main{
+		top:-36px !important;
+		position:relative;
+	}
+	
+	/* Img responsive2 */
+	#site-header .img-responsive2{
+		position:relative;
+	}
+	
+	/* Enlaces */
+	#site-header .enlaces{
+		position:relative;
+		height:60px;
+		min-width:253px;
+		top:-20px !important;
+		left:758px !important;
+	}
+	
+	/* Division */
+	#content{
+		width:838px;
+	}
+	
+	/* Division */
+	#primary{
+		width:92% !important;
+	}
+	
+}
+
+/* 1024px and below screen sizes */
+@media (max-width:1024px){
+
+	/* Site info */
+	#colophon .site-info{
+		top:3145px;
+		top:3145px;
+		top:3145px;
+		top:3145px;
+	}
+	
+	#colophon .site-infoto{
+		width:3145px;
+		width:3145px;
+		width:3145px;
+		width:3145px;
+		width:3145px;
+		width:3145px;
+		width:3145px;
+		width:3145px;
+	}
+	
+	/* Input */
+	.search-submit{
+		left:962px !important;
+		left:962px !important;
+		left:962px !important;
+		left:962px !important;
+	}
+	
+	/* Img responsive2 */
+	#site-header .img-responsive2{
+		position:relative;
+		top:5px;
+		left:331px !important;
+		position:relative;
+		top:5px;
+		left:331px !important;
+		position:relative;
+		top:5px;
+		left:331px !important;
+		position:relative;
+		top:5px;
+		left:331px !important;
+	}
+	
+	/* Secondary */
+	#secondary{
+		width:21.5% !important;
+		width:21.5% !important;
+		width:21.5% !important;
+		width:21.5% !important;
+	}
+	
+	/* Enlaces */
+	#site-header .enlaces{
+		left:699px !important;
+		position:relative;
+		left:699px !important;
+		position:relative;
+		left:699px !important;
+		position:relative;
+		left:699px !important;
+		position:relative;
+	}
+	
+	/* Input */
+	.search-form label input[type=search]{
+		left:700px !important;
+		left:700px !important;
+		left:700px !important;
+		left:700px !important;
+	}
+	
+	/* Article */
+	#content article{
+		left:75px !important;
+		position:relative;
+		left:75px !important;
+		position:relative;
+		left:75px !important;
+		position:relative;
+		left:75px !important;
+		position:relative;
+	}
+	
+	/* Sub Menu */
+	#menu-ejemplo .sub-menu{
+		margin-left:127px;
+		margin-left:127px;
+		margin-left:127px;
+		margin-left:127px;
+	}
+	
+	#main #secondary .secondary-navigation .menu-ejemplo-container #menu-ejemplo .menu-item ul{
+		width:75% !important;
+		width:75% !important;
+		width:75% !important;
+		width:75% !important;
+	}
+	
+}
+
+/* 800px and below screen sizes */
+@media (max-width:800px){
+
+	body{
+		overflow-x: initial!important;
+	}
+	
+	/* Site info */
+	#colophon .site-info{
+		top:3445px;
+		position:absolute;
+		right:auto;
+		margin-left:auto;
+		margin-right:auto;
+		top:210%;
+		width:93% !important;
+		top:3445px;
+		position:absolute;
+		right:auto;
+		margin-left:auto;
+		margin-right:auto;
+		top:210%;
+		width:93% !important;
+		top:3445px;
+		position:absolute;
+		right:auto;
+		margin-left:auto;
+		margin-right:auto;
+		top:210%;
+		width:93% !important;
+		top:3445px;
+		position:absolute;
+		right:auto;
+		margin-left:auto;
+		margin-right:auto;
+		top:210%;
+		width:93% !important;
+		top:auto !important;
+		margin-top:650px;
+	}
+	
+	#colophon .site-infoto{
+		width:3445px;
+		width:3445px;
+		width:3445px;
+		width:3445px;
+	}
+	
+	#colophon .site-infotop{
+		width:3445px;
+		width:3445px;
+		width:3445px;
+		width:3445px;
+	}
+	
+	/* Img responsive2 */
+	#site-header .img-responsive2{
+		position:absolute !important;
+		left:1px;
+		top:0px !important;
+		width:774px;
+		right:0px;
+		margin-left:-320px;
+		position:absolute !important;
+		left:1px;
+		top:0px !important;
+		width:774px;
+		right:0px;
+		margin-left:-320px;
+		position:absolute !important;
+		left:1px;
+		top:0px !important;
+		width:774px;
+		right:0px;
+		margin-left:-320px;
+		position:absolute !important;
+		left:1px;
+		top:0px !important;
+		width:774px;
+		right:0px;
+		margin-left:-320px;
+	}
+	
+	/* Division */
+	.hentry .wpfd-container-table{
+		height:385px;
+		height:385px;
+		height:385px;
+		height:385px;
+	}
+	
+	/* Division */
+	#content{
+		position:relative;
+		right:183px;
+		position:relative;
+		right:183px;
+		position:relative;
+		right:183px;
+		position:relative;
+		right:183px;
+	}
+	
+	/* Article */
+	#content article{
+		position:relative;
+		right:-1px;
+		left:53px !important;
+		margin-right:0px;
+		position:relative;
+		right:-1px;
+		left:53px !important;
+		margin-right:0px;
+		position:relative;
+		right:-1px;
+		left:53px !important;
+		margin-right:0px;
+		position:relative;
+		right:-1px;
+		left:53px !important;
+		margin-right:0px;
+	}
+	
+	/* Header main */
+	#site-header .header-main{
+		top:140px !important;
+		position:relative;
+		top:140px !important;
+		position:relative;
+		top:140px !important;
+		position:relative;
+		top:140px !important;
+		position:relative;
+	}
+	
+	/* Image */
+	.wpb_text_column p img{
+		width:594px;
+		width:594px;
+		width:594px;
+		width:594px;
+	}
+	
+	#masthead #page #site-header div aside .search-form label input[type=search]{
+		right:0px !important;
+		width:65% !important;
+		height:23% !important;
+		right:0px !important;
+		width:65% !important;
+		height:23% !important;
+		right:0px !important;
+		width:65% !important;
+		height:23% !important;
+		right:0px !important;
+		width:65% !important;
+		height:23% !important;
+	}
+	
+	#masthead #page #site-header .header-main{
+		width:93% !important;
+		width:93% !important;
+		width:93% !important;
+		width:93% !important;
+	}
+	
+	/* Secondary */
+	#secondary{
+		height:1023px;
+		display:none;
+		height:1023px;
+		display:none;
+		height:1023px;
+		display:none;
+		height:1023px;
+		display:none;
+	}
+	
+	/* Enlaces */
+	#site-header .enlaces{
+		display:none;
+		display:none;
+		display:none;
+		display:none;
+	}
+	
+	/* Paragraph */
+	#colophon .site-info .visible-phone{
+		position:relative;
+		position:relative;
+		position:relative;
+		position:relative;
+	}
+	
+	/* Button */
+	button{
+		background-color:#2f63cd !important;
+		position:absolute !important;
+		bottom:auto !important;
+		top:585px !important;
+		left:670px !important;
+		background-color:#2f63cd !important;
+		position:absolute !important;
+		bottom:auto !important;
+		top:585px !important;
+		left:670px !important;
+		background-color:#2f63cd !important;
+		position:absolute !important;
+		bottom:auto !important;
+		top:585px !important;
+		left:670px !important;
+		background-color:#2f63cd !important;
+		position:absolute !important;
+		bottom:auto !important;
+		top:585px !important;
+		left:670px !important;
+	}
+	
+	/* Image */
+	#site-header a img{
+		position:relative;
+		left:3px;
+		position:relative;
+		left:3px;
+		position:relative;
+		left:3px;
+		position:relative;
+		left:3px;
+	}
+	
+	/* Division */
+	.vc_column-inner .wpb_wrapper .wpb_wrapper{
+		position:relative;
+		top:343px;
+		right:400px;
+		left:-268px;
+		position:relative;
+		top:343px;
+		right:400px;
+		left:-268px;
+		position:relative;
+		top:343px;
+		right:400px;
+		left:-268px;
+		position:relative;
+		top:343px;
+		right:400px;
+		left:-268px;
+	}
+	
+	/* Responsive */
+	#site-header .img-responsive{
+		position:relative;
+		top:148px !important;
+		left:3px !important;
+		position:relative;
+		top:148px !important;
+		left:3px !important;
+		position:relative;
+		top:148px !important;
+		left:3px !important;
+		position:relative;
+		top:148px !important;
+		left:3px !important;
+	}
+	
+	/* Input */
+	.search-form label input[type=search]{
+		top:480px;
+		left:84px !important;
+		top:480px;
+		left:84px !important;
+		top:480px;
+		left:84px !important;
+		top:480px;
+		left:84px !important;
+	}
+	
+	#masthead #page #site-header a img{
+		width:98% !important;
+		width:98% !important;
+		width:98% !important;
+		width:98% !important;
+	}
+	
+	/* Button */
+	#responsive-menu-button{
+		left:620px !important;
+		margin-top:-35px !important;
+		left:620px !important;
+		margin-top:-35px !important;
+		left:620px !important;
+		margin-top:-35px !important;
+		left:620px !important;
+		margin-top:-35px !important;
+	}
+	
+	#main #main-content #primary #content .hentry .entry-content .wpb_row .vc_column_container .vc_column-inner .wpb_wrapper .wpb_text_column .wpb_wrapper{
+		width:180% !important;
+		width:180% !important;
+		width:180% !important;
+		width:180% !important;
+	}
+	
+	#page div input[type=submit]{
+		left:570px !important;
+		left:570px !important;
+		left:570px !important;
+		left:570px !important;
+	}
+	
+	#masthead #page #site-header img{
+		bottom:auto !important;
+		bottom:auto !important;
+		bottom:auto !important;
+		bottom:auto !important;
+	}
+	
+	/* Division */
+	#main-content{
+		position:relative;
+	}
+	
+	#main #primary article{
+		top:340px !important;
+	}
+	
+	/* Input */
+	.search-form label input[type=submit]{
+		top:558px !important;
+	}
+	
+	/* Division */
+	.responsive-menu-open #responsive-menu-container{
+		position:absolute;
+		top:605px;
+		width:100%;
+		height:370px;
+	}
+	
+	/* Division */
+	#responsive-menu-container{
+		top:542px;
+		height:0px;
+	}
+	
+	/* Division */
+	.hentry .wpfd-content{
+		width:625px;
+	}
+	
+}
+
+/* 600px and below screen sizes */
+@media (max-width:600px){
+
+	body{
+		overflow-x: initial!important;
+	}
+	
+	#breadcrumbs{
+		margin-left: 20px;
+		margin-top: 40px;
+	}
+	
+.responsive-menu-button-text { display:none; }
+
+	/* Site info */
+	#colophon .site-info{
+		top:auto !important;
+		width:97.5% !important;
+		top:4000px;
+		width:97.5% !important;
+		top:4000px;
+		width:97.5% !important;
+		top:4000px;
+		width:97.5% !important;
+		margin-top:110%;
+	}
+	
+	#colophon .site-infoto{
+		width:4000px;
+		width:4000px;
+		width:4000px;
+		width:4000px;
+	}
+	
+	#colophon .site-infotop{
+		width:4000px;
+		width:4000px;
+		width:4000px;
+		width:4000px;
+	}
+	
+	/* Img responsive2 */
+	#site-header .img-responsive2{
+		left:320px !important;
+		top:30px !important;
+		left:320px !important;
+		top:30px !important;
+		left:320px !important;
+		top:30px !important;
+		left:320px !important;
+		top:30px !important;
+	}
+	
+	#page div input[type=submit]{
+		left:440px !important;
+		left:440px !important;
+		left:440px !important;
+		left:440px !important;
+	}
+	
+	/* Division */
+	.hentry .wpfd-container-table{
+		height:329px;
+		height:329px;
+		height:329px;
+		height:329px;
+		height:auto !important;
+	}
+	
+	/* Division */
+	#content{
+		width:125% !important;
+		position:relative;
+		top:3px;
+		left:-177px;
+		width:125% !important;
+		position:relative;
+		top:3px;
+		left:-177px;
+		width:125% !important;
+		position:relative;
+		top:3px;
+		left:-177px;
+		width:125% !important;
+		position:relative;
+		top:3px;
+		left:-177px;
+	}
+	
+	#masthead #page #site-header .header-main{
+		width:100% !important;
+		width:100% !important;
+		width:100% !important;
+		width:100% !important;
+	}
+	
+	/* Button */
+	button{
+		top:590px;
+		margin-top:10px !important;
+		margin-left:-130px !important;
+		top:590px;
+		margin-top:10px !important;
+		margin-left:-130px !important;
+		top:590px;
+		margin-top:10px !important;
+		margin-left:-130px !important;
+		top:590px;
+		margin-top:10px !important;
+		margin-left:-130px !important;
+	}
+	
+	/* Article */
+	#content article{
+		position:relative;
+		position:relative;
+		position:relative;
+		position:relative;
+	}
+	
+	/* Button */
+	#responsive-menu-button{
+		margin-top:-35px !important;
+		margin-top:-35px !important;
+		margin-top:-35px !important;
+		margin-top:-35px !important;
+	}
+	
+	/* Division */
+	.responsive-menu-open #responsive-menu-container{
+		position:absolute !important;
+		width:100% !important;
+		height:370px !important;
+		top:605px !important;
+	}
+	
+	/* Division */
+	#responsive-menu-container{
+		position:absolute !important;
+		top:642px !important;
+		height:0px !important;
+	}
+	
+}
+
+/* 480px and below screen sizes */
+@media (max-width:480px){
+
+	body{
+		overflow-x: initial!important;
+	}
+	
+	#breadcrumbs{
+		margin-left: 20px;
+		margin-top: 95px;
+	}
+	
+	.responsive-menu-button-text { display:none; }
+
+
+	/* Site info */
+	#colophon .site-info{
+		top:auto !important;
+		bottom:auto;
+		top:4655px;
+		bottom:auto;
+		top:4655px;
+		bottom:auto;
+		top:4655px;
+		bottom:auto;
+		margin-top:650px;
+	}
+	
+	#colophon .site-infoto{
+		width:4655px;
+		bottom:auto;
+		width:4655px;
+		bottom:auto;
+		width:4655px;
+		bottom:auto;
+		width:4655px;
+		bottom:auto;
+	}
+	
+	#colophon .site-infotop{
+		width:4655px;
+		bottom:auto;
+		width:4655px;
+		bottom:auto;
+		width:4655px;
+		bottom:auto;
+		width:4655px;
+		bottom:auto;
+	}
+	
+	#page div input[type=submit]{
+		left:321px !important;
+		left:321px !important;
+		left:321px !important;
+		left:321px !important;
+	}
+	
+	/* Img responsive2 */
+	#site-header .img-responsive2{
+		top:30px !important;
+		left:10px !important;
+		margin-left:-13px;
+		top:30px !important;
+		left:10px !important;
+		margin-left:-13px;
+		top:30px !important;
+		left:10px !important;
+		margin-left:-13px;
+		top:30px !important;
+		left:10px !important;
+		margin-left:-13px;
+	}
+	
+	/* Article */
+	#content article{
+		top:280px;
+		position:relative;
+		top:280px;
+		position:relative;
+		top:280px;
+		position:relative;
+		top:280px;
+		position:relative;
+	}
+	
+	/* Button */
+	#responsive-menu-button{
+		top:585px;
+		margin-top:-85px !important;
+		top:585px;
+		margin-top:-85px !important;
+		top:585px;
+		margin-top:-85px !important;
+		top:585px;
+		margin-top:-85px !important;
+	}
+	
+	/* Input */
+	.search-form label input[type=search]{
+		top:429px;
+		left:45px !important;
+		top:429px;
+		left:45px !important;
+		top:429px;
+		left:45px !important;
+		top:429px;
+		left:9px !important;
+	}
+	
+	/* Division */
+	.hentry .wpfd-container-table{
+		height:251px;
+		height:251px;
+		height:251px;
+		height:251px;
+		height:auto !important;
+	}
+	
+	/* Button */
+	button{
+		margin-left:-250px !important;
+		margin-left:-250px !important;
+		margin-left:-250px !important;
+		margin-left:-250px !important;
+	}
+	
+	/* Image */
+	#site-header .header-main img{
+		left:-5px !important;
+		position:relative;
+		left:-5px !important;
+		position:relative;
+		left:-5px !important;
+		position:relative;
+		left:-5px !important;
+		position:relative;
+	}
+	
+	/* Division */
+	.responsive-menu-open #responsive-menu-container{
+		position:absolute !important;
+		top:555px !important;
+		width:100% !important;
+		height:370px !important;
+	}
+	
+	/* Division */
+	#responsive-menu-container{
+		position:absolute !important;
+		top:617px !important;
+		visibility:visible !important;
+		height:0px !important;
+	}
+	
+	/* Input */
+	.search-form label input[type=submit]{
+		top:507px !important;
+	}
+	
+}
+
+/* 400px and below screen sizes */
+@media (max-width:400px){
+
+	/* Input */
+	.search-form label input[type=submit]{
+		top:508px !important;
+	}
+	
+	body{
+		overflow-x: initial!important;
+	}
+	
+	#breadcrumbs{
+		margin-left: 20px;
+		margin-top: 40px;
+	}
+
+	.responsive-menu-button-text { display:none; }
+	
+	/* Site info */
+	#colophon .site-info{
+		margin-top:700px;
+		top:auto !important;
+		width:373px;
+		left:-10px;
+		top:5580px;
+		width:373px;
+		left:-10px;
+		top:5580px;
+		width:373px;
+		left:-10px;
+		top:5580px;
+		width:373px;
+		left:-10px;
+	}
+	
+	#colophon .site-infoto{
+		width:5580px;
+		width:5580px;
+		width:5580px;
+		width:5580px;
+	}
+	
+	#colophon .site-infotop{
+		width:5580px;
+		width:5580px;
+		width:5580px;
+		width:5580px;
+	}
+	
+	/* Img responsive2 */
+	#site-header .img-responsive2{
+		top:40px !important;
+		top:40px !important;
+		top:40px !important;
+		top:40px !important;
+	}
+	
+	/* Article */
+	#content article{
+		left:60px !important;
+		left:60px !important;
+		left:60px !important;
+		left:60px !important;
+		visibility:visible;
+		position:relative;
+	}
+	
+	/* Header main */
+	#site-header .header-main{
+		height:102px;
+		height:102px;
+		height:102px;
+		height:102px;
+	}
+	
+	/* Button */
+	#responsive-menu-button{
+		left:580px !important;
+		margin-top:-85px !important;
+		left:580px !important;
+		margin-top:-85px !important;
+		left:580px !important;
+		margin-top:-85px !important;
+		left:580px !important;
+		margin-top:-85px !important;
+	}
+	
+	#masthead #page div input[type=submit]{
+		left:279px !important;
+		left:279px !important;
+		left:279px !important;
+		left:279px !important;
+	}
+	
+	#masthead #page div input[type=search]{
+		left:31px !important;
+		left:31px !important;
+		left:31px !important;
+		left:31px !important;
+	}
+	
+	/* Division */
+	#content .wpfd-content{
+		width:330px;
+		width:330px;
+		width:330px;
+		width:330px;
+	}
+	
+	/* Division */
+	.responsive-menu-open #responsive-menu-container{
+		position:absolute !important;
+		width:100% !important;
+		top:555px !important;
+		overflow-y:hidden !important;
+		height:320px !important;
+	}
+	
+	/* Division */
+	#responsive-menu-container{
+		position:absolute !important;
+		height:0px !important;
+		top:300px !important;
+	}
+	
+	/* Division */
+	.hentry .wpfd-container-table{
+		height:auto !important;
+	}
+	
+}
+
+/* 375px and below screen sizes */
+@media (max-width:375px){
+
+	/* Image */
+	#site-header .header-main img{
+		position:relative;
+		top:-1px;
+	}
+	
+	#breadcrumbs{
+		margin-left: 20px;
+		margin-top: 40px;
+	}
+
+	.responsive-menu-button-text { display:none; }
+	
+	/* Button */
+	#responsive-menu-button{
+		left:530px !important;
+	}
+	
+	#masthead #page div input[type=submit]{
+		left:240px !important;
+	}
+	
+	/* Header main */
+	#site-header .header-main{
+		height:96px;
+	}
+	
+	/* Division */
+	.responsive-menu-open #responsive-menu-container{
+		height:350px !important;
+	}
+	
+}
+
+/* 320px and below screen sizes */
+@media (max-width:320px){
+
+	/* Division */
+	.responsive-menu-open #responsive-menu-container{
+		top:465px !important;
+		width:100% !important;
+		height:330px;
+		overflow-y:hidden !important;
+	}
+
+	.responsive-menu-button-text { display:none; }
+	
+	body{
+		overflow-x: initial!important;
+		perspective:5px;
+		perspective:5px;
+		perspective:5px;
+		perspective:5px;
+		perspective:5px;
+		perspective:5px;
+		perspective:5px;
+		perspective:5px;
+		perspective:5px;
+		perspective:5px;
+		perspective:5px;
+		perspective:5px;
+	}
+	
+	#breadcrumbs{
+		margin-left: 20px;
+		margin-top: 40px;
+	}
+	
+	/* Site info */
+	#colophon .site-info{
+		top:6790px;
+		bottom:auto;
+		left:0px;
+		top:1013px;
+		bottom:-1179px;
+		height:315px;
+		text-align:center;
+		word-wrap:normal;
+		padding-top:0px;
+		padding-right:0px;
+		min-width:initial;
+		max-width:310px;
+		top:6790px;
+		bottom:auto;
+		left:0px;
+		top:1013px;
+		bottom:-1179px;
+		height:315px;
+		text-align:center;
+		word-wrap:normal;
+		padding-top:0px;
+		padding-right:0px;
+		min-width:initial;
+		max-width:310px;
+		top:6790px;
+		bottom:auto;
+		left:0px;
+		top:1013px;
+		bottom:-1179px;
+		height:315px;
+		text-align:center;
+		word-wrap:normal;
+		padding-top:0px;
+		padding-right:0px;
+		min-width:initial;
+		max-width:310px;
+		top:6790px;
+		bottom:auto;
+		left:0px;
+		top:1013px;
+		bottom:-1179px;
+		height:315px;
+		text-align:center;
+		word-wrap:normal;
+		padding-top:0px;
+		padding-right:0px;
+		min-width:initial;
+		max-width:310px;
+	}
+	
+	/* Division */
+	#responsive-menu-container{
+		width:100% !important;
+		height:0px;
+	}
+	
+	#colophon .site-infoto{
+		widt:6790px;
+		bottom:auto;
+		widt:6790px;
+		bottom:auto;
+		widt:6790px;
+		bottom:auto;
+		widt:6790px;
+		bottom:auto;
+	}
+	
+	#colophon .site-infotop{
+		width:6790px;
+		bottom:auto;
+		width:6790px;
+		bottom:auto;
+		width:6790px;
+		bottom:auto;
+		width:6790px;
+		bottom:auto;
+	}
+	
+	/* Division */
+	.hentry .wpfd-container-table{
+		position:relative;
+		left:-8px;
+		position:relative;
+		left:-8px;
+		position:relative;
+		left:-8px;
+		position:relative;
+		left:-8px;
+	}
+	
+	/* Button */
+	#responsive-menu-button{
+		margin-top:-175px !important;
+		left:555px !important;
+		margin-top:-175px !important;
+		left:555px !important;
+		margin-top:-175px !important;
+		left:555px !important;
+		margin-top:-175px !important;
+		left:555px !important;
+	}
+	
+	/* Img responsive2 */
+	#site-header .img-responsive2{
+		top:60px !important;
+		top:60px !important;
+		top:60px !important;
+		top:60px !important;
+	}
+	
+	#masthead #page div input[type=submit]{
+		left:200px !important;
+		top:421px !important;
+		left:200px !important;
+		top:421px !important;
+		left:200px !important;
+		top:421px !important;
+		left:200px !important;
+		top:421px !important;
+	}
+	
+	#masthead #page #site-header div aside .search-form label input[type=search]{
+		width:180px !important;
+		width:180px !important;
+		width:180px !important;
+		width:180px !important;
+	}
+	
+	/* Button */
+	button{
+		margin-left:-306px !important;
+		top:574px;
+		position:absolute;
+		z-index:99999;
+		margin-left:-306px !important;
+		top:574px;
+		position:absolute;
+		z-index:99999;
+		margin-left:-306px !important;
+		top:574px;
+		position:absolute;
+		z-index:99999;
+		margin-left:-306px !important;
+		top:574px;
+		position:absolute;
+		z-index:99999;
+	}
+	
+	/* Article */
+	#content article{
+		top:181px !important;
+		position:relative;
+		top:181px !important;
+		position:relative;
+		top:181px !important;
+		position:relative;
+		top:181px !important;
+		position:relative;
+	}
+	
+	/* Input */
+	.search-form label input[type=search]{
+		top:343px;
+		top:343px;
+		top:343px;
+		top:343px;
+	}
+	
+	/* Header main */
+	#site-header .header-main{
+		height:80px !important;
+		height:80px !important;
+		height:80px !important;
+		height:80px !important;
+	}
+	
+	#main #primary article{
+		left:92px !important;
+		left:92px !important;
+		left:92px !important;
+		left:92px !important;
+	}
+	
+	#site-header div aside .search-form input[type=submit]{
+		top:42px !important;
+		top:42px !important;
+		top:42px !important;
+		top:42px !important;
+	}
+	
+	/* Link */
+	#colophon .site-info a{
+		font-size:14px;
+		font-size:14px;
+		font-size:14px;
+		font-size:14px;
+	}
+	
+	/* Post Title */
+	.hentry .entry-header h1{
+		width:140%;
+		width:140%;
+		width:140%;
+		width:140%;
+	}
+	
+	#main #main-content #primary #content .hentry .entry-content .wpfd-content-table{
+		width:137% !important;
+		width:137% !important;
+		width:137% !important;
+		width:137% !important;
+	}
+	
+	/* Link */
+	.mediaTableWrapperWithMenu .mediaTableMenu a{
+		position:relative;
+		position:relative;
+		position:relative;
+		position:relative;
+	}
+	
+	/* Italic Tag */
+	.mediaTableMenu a i{
+		position:relative;
+		position:relative;
+		position:relative;
+		position:relative;
+	}
+	
+}
+
+/* 800px and above screen sizes */
+@media (min-width:800px){
+
+	body{
+		overflow-x: initial!important;
+	}
+	
+	/* Input */
+	.search-form label input[type=search]{
+		right:19px;
+		right:19px;
+	}
+	
+	#breadcrumbs{
+		margin-left: 20px;
+		margin-top: 40px;
+	}
+	
+	.responsive-menu-button-text { display:none; }
+
+	
+	/* Enlaces */
+	#site-header .enlaces{
+		position:relative;
+		position:relative;
+	}
+	
+	#masthead #page #site-header .enlaces{
+		bottom:auto !important;
+		bottom:auto !important;
+	}
+	
+	#main #main-content #primary #content article{
+		width:80% !important;
+		width:80% !important;
+	}
+	
+	/* Article */
+	#content article{
+		position:relative;
+		top:0px;
+		position:relative;
+		top:0px;
+	}
+	
+	/* Input */
+	.search-submit{
+		display:block !important;
+		position:absolute !important;
+		top:80px !important;
+		left:1420px !important;
+		font-size:0px !important;
+		padding-right:5px !important;
+		background-color:#ecf0f1 !important;
+		background-image:url(http://bnphu.gob.do/wptransparencia/wp-content/uploads/2019/10/icons8-google-web-search-26-5.png);
+		background-size:contain;
+		display:block !important;
+		position:absolute !important;
+		top:80px !important;
+		left:1420px !important;
+		font-size:0px !important;
+		padding-right:5px !important;
+		background-color:#ecf0f1 !important;
+		background-image:url(http://bnphu.gob.do/wptransparencia/wp-content/uploads/2019/10/icons8-google-web-search-26-5.png);
+		background-size:contain;
+	}
+	
+	#masthead #page #site-header div aside .search-form input[type=submit]{
+		height:38px !important;
+		width:38px !important;
+		height:38px !important;
+		width:38px !important;
+	}
+	
+	/* Img responsive2 */
+	#site-header .img-responsive2{
+		left:496px;
+		left:496px;
+		left:496px;
+		position:relative;
+		right:auto;
+		left:496px;
+		left:496px;
+		left:496px;
+		position:relative;
+		right:auto;
+	}
+	
+}
+
+/* 1280px and above screen sizes */
+@media (min-width:1280px){
+
+	/* Input */
+	.search-form label input[type=search]{
+		right:19px;
+		left:1160px;
+		width:256px;
+		right:19px;
+		left:1160px;
+		width:256px;
+	}
+	
+	/* Enlaces */
+	#site-header .enlaces{
+		position:relative;
+		position:relative;
+		left:1160px;
+		top:-24px;
+		position:relative;
+		position:relative;
+		left:1160px;
+		top:-24px;
+	}
+	
+	#masthead #page #site-header .enlaces{
+		bottom:auto !important;
+		width:20% !important;
+		bottom:auto !important;
+		width:20% !important;
+	}
+	
+	#main #main-content #primary #content article{
+		width:80% !important;
+		width:80% !important;
+	}
+	
+	/* Article */
+	#content article{
+		position:relative;
+		top:0px;
+		position:relative;
+		left:160px;
+		position:relative;
+		top:0px;
+		position:relative;
+		left:160px;
+	}
+	
+	/* Input */
+	.search-submit{
+		display:block !important;
+		position:absolute !important;
+		top:80px !important;
+		left:1420px !important;
+		font-size:0px !important;
+		padding-right:5px !important;
+		background-color:#ecf0f1 !important;
+		background-image:url(http://bnphu.gob.do/wptransparencia/wp-content/uploads/2019/10/icons8-google-web-search-26-5.png);
+		background-size:contain;
+		left:1425px;
+		display:block !important;
+		position:absolute !important;
+		top:80px !important;
+		left:1420px !important;
+		font-size:0px !important;
+		padding-right:5px !important;
+		background-color:#ecf0f1 !important;
+		background-image:url(http://bnphu.gob.do/wptransparencia/wp-content/uploads/2019/10/icons8-google-web-search-26-5.png);
+		background-size:contain;
+		left:1425px;
+	}
+	
+	#masthead #page #site-header div aside .search-form input[type=submit]{
+		height:38px !important;
+		width:38px !important;
+		height:38px !important;
+		width:38px !important;
+	}
+	
+	/* Image */
+	#site-header a img{
+		position:relative;
+		top:-3px;
+		position:relative;
+		top:-3px;
+	}
+	
+	/* Responsive */
+	#site-header .img-responsive{
+		position:relative;
+		top:0px;
+		left:80px;
+		position:relative;
+		top:0px;
+		left:80px;
+	}
+	
+	/* Header main */
+	#site-header .header-main{
+		position:relative;
+		left:0px;
+		top:-22px;
+		position:relative;
+		left:0px;
+		top:-22px;
+	}
+	
+	/* Secondary */
+	#secondary{
+		position:relative;
+		top:0px;
+		left:100px;
+		height:1080px;
+		position:relative;
+		top:0px;
+		left:100px;
+		height:1080px;
+	}
+	
+	/* Image */
+	#site-header .header-main img{
+		position:relative;
+		top:0px;
+		left:38px;
+		position:relative;
+		top:0px;
+		left:38px;
+	}
+	
+	/* Img responsive2 */
+	#site-header .img-responsive2{
+		position:relative;
+		top:0px;
+		left:790px;
+		position:relative;
+		top:0px;
+		left:790px;
+	}
+	
+}
