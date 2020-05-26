@@ -1,8 +1,8 @@
 <div class="container facultades">
 
 <div class="row">
-		
-		<div class="col-lg-12 mt-5">			
+
+		<div class="col-lg-12 mt-5">
 			<h3 class="nuestros_egresados">FACULTADES</h3>
 			<hr class="regla_egresados"></hr>
 		</div>
@@ -10,7 +10,7 @@
 
 
 <div class="row mt-5">
-		
+
 <div class="card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/humanidades.svg">
 		  <div class="card-body">
@@ -39,7 +39,7 @@
 </div>
 
 <div class="row mt-5">
-		
+
 <div class="card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/juridica.svg">
 		  <div class="card-body">
@@ -69,7 +69,7 @@
 
 
 <div class="row mt-5">
-		
+
 <div class="card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/agronomia.svg">
 		  <div class="card-body">
@@ -106,5 +106,3 @@
 	</div>
 </center>
 </div>
-
- 

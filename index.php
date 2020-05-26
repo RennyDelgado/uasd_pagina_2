@@ -23,7 +23,7 @@ include('include/eluniversitario.php');
 ?>
 
 <?php
-include('include/agenda.php');
+//include('include/agenda.php');
 ?>
 
 
