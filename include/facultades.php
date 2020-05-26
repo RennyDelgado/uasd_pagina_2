@@ -1,3 +1,5 @@
+<div class="container-fluid fondo-facultades">
+
 <div class="container facultades">
 
 <div class="row">
@@ -11,7 +13,7 @@
 
 <div class="row mt-5">
 
-<div class="card col-lg-4 col-md-4 col-xs-4">
+<div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/humanidades.svg">
 		  <div class="card-body">
             <h5 class="card-title">HUMANIDADES</h5>
@@ -19,7 +21,7 @@
   	</div>
 </div>
 
-<div class="card col-lg-4 col-md-4 col-xs-4">
+<div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/ciencias.svg">
 		  <div class="card-body">
             <h5 class="card-title">CIENCAS</h5>
@@ -27,7 +29,7 @@
   	</div>
 </div>
 
-<div class="card col-lg-4 col-md-4 col-xs-4">
+<div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/economia.svg">
 		  <div class="card-body">
             <h5 class="card-title">CIENCIAS ECONÓMICAS Y SOCIALES</h5>
@@ -40,7 +42,7 @@
 
 <div class="row mt-5">
 
-<div class="card col-lg-4 col-md-4 col-xs-4">
+<div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/juridica.svg">
 		  <div class="card-body">
             <h5 class="card-title">ciencias jurídicas y políticas</h5>
@@ -48,7 +50,7 @@
   	</div>
 </div>
 
-<div class="card col-lg-4 col-md-4 col-xs-4">
+<div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/Ingenieria.svg">
 		  <div class="card-body">
             <h5 class="card-title">ingenierí y arquitectura</h5>
@@ -56,7 +58,7 @@
   	</div>
 </div>
 
-<div class="card col-lg-4 col-md-4 col-xs-4">
+<div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/medicina.svg">
 		  <div class="card-body">
             <h5 class="card-title">ciencias de la salud</h5>
@@ -70,7 +72,7 @@
 
 <div class="row mt-5">
 
-<div class="card col-lg-4 col-md-4 col-xs-4">
+<div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/agronomia.svg">
 		  <div class="card-body">
             <h5 class="card-title">ciencias agronómicas y veterinarias</h5>
@@ -78,7 +80,7 @@
   	</div>
 </div>
 
-<div class="card col-lg-4 col-md-4 col-xs-4">
+<div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/arte.svg">
 		  <div class="card-body">
             <h5 class="card-title">artes</h5>
@@ -86,7 +88,7 @@
   	</div>
 </div>
 
-<div class="card col-lg-4 col-md-4 col-xs-4">
+<div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/educacion.svg">
 		  <div class="card-body">
             <h5 class="card-title">ciencias de la educación</h5>
@@ -105,4 +107,5 @@
 		</div>
 	</div>
 </center>
+</div>
 </div>
