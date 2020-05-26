@@ -177,6 +177,14 @@ font-size: 12px;
 }
 
 
+.pie-universitario .alineado { text-align: center;}
+
+.pie-universitario .revista {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+background-size: auto;
+}
 
 
 /*RECTORIA*/

@@ -97,7 +97,28 @@
   </div>
 
   </div>
+
+  <div class="col-lg-12 p-0">
+  <div class="row mt-5 pie-universitario">
+
+    <div class="card col-lg-6 col-md-6 col-xs-6">
+    		  <div class="card-body">
+                <p>El Universitario, que se publica quincenalmente, es el instrumento de difusión oficial de la Universidad Autónoma de Santo Domingo, exhibe además un diseño vanguardista en cada una de las secciones que sirven de plataforma para la presentación de un contenido depurado y previamente planificado, con secciones alineadas a la misión, visión y valores de la academia.</p>
+              <a href="#" class="">UASD.EDU.DO/PERIODICO</a>
+        </div>
     </div>
+
+    <div class="alineado card col-lg-6 col-md-6 col-xs-6 revista"
+    style="background-image:url(img/universitario-impreso.png)">
+          <img  class="img-img-fluid logo" src="img/logo-issuu" alt="">
+          <a href="#" class="">VERSION IMPRESA</a>
+    </div>
+
+  </div>
+  </div>
+
+  </div>
+
 </div>
 
 
