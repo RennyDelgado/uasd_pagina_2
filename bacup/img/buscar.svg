@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87.02" height="32.379" viewBox="0 0 87.02 32.379">
+  <g id="Group_681" data-name="Group 681" transform="translate(2155.5 6156)">
+    <rect id="Rectangle_199" data-name="Rectangle 199" width="87.02" height="32.379" rx="16.19" transform="translate(-2155.5 -6156)" fill="#26b3ff"/>
+    <text id="BUSCAR" transform="translate(-2139.491 -6136.136)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">BUSCAR</tspan></text>
+    <g id="Group_600" data-name="Group 600" transform="translate(-2093.439 -6145.207)">
+      <g id="Ellipse_33" data-name="Ellipse 33" fill="none" stroke="#fff" stroke-width="2">
+        <circle cx="5.059" cy="5.059" r="5.059" stroke="none"/>
+        <circle cx="5.059" cy="5.059" r="4.059" fill="none"/>
+      </g>
+      <line id="Line_123" data-name="Line 123" x2="2.698" y2="2.024" transform="translate(8.432 8.432)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
