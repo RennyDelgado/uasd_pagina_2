@@ -370,6 +370,11 @@ width: 100%;}
     background-color:rgba(148, 143, 143, 0.5);
 }
 
+.agenda .detalle-dias .carousel-item {height: 600px;min-height: 350px;
+background-repeat: no-repeat;background-size: cover;
+background-position: center center;
+}
+
 
 
 /*PC ALTO*/
