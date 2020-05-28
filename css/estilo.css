@@ -1,3 +1,14 @@
+.juridica { color:#FF1C07;}
+.agronomia {color: #00A651;}
+.economia {color: #F47B20;}
+.ciencia {color: #26B3FF;}
+.arte {color: #B38E05;}
+.humanidades {color: #7B56A4;}
+.ingenieria {color:#0077FF;}
+.medicina {color:#F3FA33;}
+.educacion {color:#911422;}
+
+
   .carousel-item {
   height:700px;
   min-height: 350px;
@@ -269,10 +280,8 @@ background-size: auto;
     margin-top: 5rem;
 }
 
-.fondo_rectoria hr.regla_egresados {
-
-    margin-top: 1rem;
-    border-top: 5px solid #0077FF;
+.fondo_rectoria hr.regla_egresados {margin-top: 1rem;
+border-top: 5px solid #0077FF;
     width: 5%;
     float: left;
 }
@@ -289,6 +298,77 @@ background-size: auto;
   margin-left: -3rem;
 }
 
+/*AGENDA*/
+.agenda_dias {background-image: url(img/image_agenda.png);padding: 0px;}
+.agenda_color {background-color: rgba(9, 135, 255, 0.85);width: 100%;padding: 20px;}
+.agenda .detalle-dias {background-color: #EFF0F1;}
+
+.agenda .detalle-dias hr.regla{
+margin-top: 1rem;
+margin-bottom:3rem;
+border: 0;
+width: 10%;
+border-top: 7px solid #0077FF;
+float: left;
+}
+.agenda .detalle-dias h3 {text-transform: uppercase;font-size: 1.3rem;}
+
+.agenda .detalle-dias .hora_agenda {text-transform: uppercase;color: #0077FF;
+font-size: 1.2rem;font-weight: bold; float: left; margin-right: 1rem;}
+
+.agenda .detalle-dias hr.regla{
+margin-top:10px;
+margin-bottom:3rem;
+border: 0;
+width:5%;
+border-top: 10px solid;
+float: left;
+}
+
+
+
+.agenda .detalle-dias p.texto_agenda{display: block;float: left;margin-top: -2rem;}
+.agenda .detalle-dias .ubicacion { display: block;float: left;}
+.agenda .detalle-dias .lugar_icono{display: block;float: left;margin-right: 1rem;}
+.agenda .detalle-dias .regla_divicion {border: solid 0.5px #dadada;float: left;
+width: 100%;}
+.agenda .detalle-dias .todas-actividades {
+  float: right;margin-top: -4rem;margin-right: 2rem;background-color: #288fe0;
+  padding: 10px 20px 10px 20px;border-radius: 23px;color: #fff;font-size: 14px;
+  position: relative;z-index: 50000;
+}
+
+.agenda .detalle-dias .carousel-indicators {
+    position: absolute;
+    /* right: 0; */
+    bottom: 10px;
+    /* left: 0; */
+    z-index: 15;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: left;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 3%;
+    width: 30%;
+    /* list-style: none; */
+}
+.agenda .detalle-dias .carousel-indicators .active {
+    background-color: #288fe0;
+}
+
+.agenda .detalle-dias .carousel-indicators li {
+    position: relative;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 30px;
+    height: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-indent: -999px;
+    background-color:rgba(148, 143, 143, 0.5);
+}
 
 
 
