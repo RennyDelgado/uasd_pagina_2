@@ -300,42 +300,60 @@ border-top: 5px solid #0077FF;
 
 /*AGENDA*/
 .agenda_dias {background-image: url(img/image_agenda.png);padding: 0px;}
-.agenda_color {background-color: rgba(9, 135, 255, 0.85);width: 100%;padding: 20px;}
+.agenda_color {background-color: rgba(9, 135, 255, 0.85);width: 100%;padding: 20px;
+    height:auto; float: left;}
 .agenda .detalle-dias {background-color: #EFF0F1;}
+.agenda .dias {width: 20%;float: left;}
+.agenda .datos {float: left;display: block;width: 75%;margin-left: 15px;
+margin-top: 20px;color: #fff;}
 
-.agenda .detalle-dias hr.regla{
-margin-top: 1rem;
-margin-bottom:3rem;
-border: 0;
-width: 10%;
-border-top: 7px solid #0077FF;
-float: left;
-}
+.agenda .agenda_dias ul{ list-style-type: none;}
+
+.agenda .agenda_dias ul li.activo {background: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 40px;
+    text-align: center;
+    margin-top: 1rem;
+  }
+
+.agenda .agenda_dias ul li {
+    background: #B1E4FF;
+    width: 90%;
+    padding: 6px;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 29px;}
+
+.agenda .datos .hora_detalle {margin-top: 1rem;font-size: 1.5rem;margin-bottom: 2rem;}
+
+.agenda .datos .fecha {font-size: 2rem;}
+
+.agenda .datos .dealle {border-bottom: solid 1px #b1e4ff;margin-bottom: 2rem;
+padding-bottom: 1rem;}
+
+.agenda .datos .ubicacion { font-size: 1.3rem;}
+
+.agenda .detalle-dias hr.regla{margin-top: 1rem;margin-bottom:3rem;border: 0;
+width: 10%;border-top: 7px solid #0077FF;float: left;}
+
 .agenda .detalle-dias h3 {text-transform: uppercase;font-size: 1.3rem;}
 
 .agenda .detalle-dias .hora_agenda {text-transform: uppercase;color: #0077FF;
 font-size: 1.2rem;font-weight: bold; float: left; margin-right: 1rem;}
 
-.agenda .detalle-dias hr.regla{
-margin-top:10px;
-margin-bottom:3rem;
-border: 0;
-width:5%;
-border-top: 10px solid;
-float: left;
-}
-
-
+.agenda .detalle-dias hr.regla{margin-top:10px;margin-bottom:3rem;border: 0;
+width:5%;border-top: 10px solid;float: left;}
 
 .agenda .detalle-dias p.texto_agenda{display: block;float: left;margin-top: -2rem;}
 .agenda .detalle-dias .ubicacion { display: block;float: left;}
 .agenda .detalle-dias .lugar_icono{display: block;float: left;margin-right: 1rem;}
 .agenda .detalle-dias .regla_divicion {border: solid 0.5px #dadada;float: left;
 width: 100%;}
-.agenda .detalle-dias .todas-actividades {
-  float: right;margin-top: -4rem;margin-right: 2rem;background-color: #288fe0;
-  padding: 10px 20px 10px 20px;border-radius: 23px;color: #fff;font-size: 14px;
-  position: relative;z-index: 50000;
+.agenda .detalle-dias .todas-actividades {float: right;margin-top: -4rem;
+margin-right: 2rem;background-color: #288fe0;padding: 10px 20px 10px 20px;
+border-radius: 23px;color: #fff;font-size: 14px;position: relative;z-index: 50000;
 }
 
 .agenda .detalle-dias .carousel-indicators {
@@ -354,9 +372,7 @@ width: 100%;}
     width: 30%;
     /* list-style: none; */
 }
-.agenda .detalle-dias .carousel-indicators .active {
-    background-color: #288fe0;
-}
+.agenda .detalle-dias .carousel-indicators .active {background-color: #288fe0;}
 
 .agenda .detalle-dias .carousel-indicators li {
     position: relative;
