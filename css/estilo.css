@@ -28,6 +28,14 @@
   font-size: 1.5rem;
   text-align: left;
 }
+.invisible {display:none!important;}
+
+#content div.active{
+  display:block;
+}
+#content .content{
+  display:none;
+}
 
 .carousel-caption {
     position: absolute;
@@ -320,7 +328,7 @@ margin-top: 20px;color: #fff;}
 .agenda .agenda_dias ul li {
     background: #B1E4FF;
     width: 90%;
-    padding: 6px;
+    padding: 8px;
     border-radius: 30px;
     text-align: center;
     margin-top: 1rem;

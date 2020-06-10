@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <title>PAGINA UASD</title>
- 
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" 
+  <link rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css'>
@@ -15,20 +15,22 @@
 <link rel="stylesheet" href="css/estilo.css">
 
 
+
+
 </head>
 
 <body>
 <!-- partial:index.partial.html -->
   <div class="container">
     <div class="row">
-          <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12  menu-top mt-1 mb-2">            
+          <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12  menu-top mt-1 mb-2">
             <div class="menu float-right mt-2 justify-content-center justify-content-lg-end text-center
-            text-uppercase">    
+            text-uppercase">
               <a href="#" class="link">TRANSPARENCIA</a>
               <a href="#" class="link">CONTACTOS</a>
               <a href="#" class="link">CORREO</a>
-              <a href="#" class="link">INTRANET</a> 
-              <a href="#" class="link">EGRESADOS</a>              
+              <a href="#" class="link">INTRANET</a>
+              <a href="#" class="link">EGRESADOS</a>
               <span class="seccion"><a href="#">INICIAR SESION</a></span>
               <a href="#"><img src="img/session.svg" alt=""></a>
               <a href="#"><img src="img/buscar.svg" alt=""></a>
@@ -47,20 +49,20 @@
 
     <a href="#" class="navbar-brand">
 
-      <img src="img/logo_uasd.svg" alt="" 
+      <img src="img/logo_uasd.svg" alt=""
       class="img-fluid float-right d-none d-sm-none d-md-block mr-3">
-      
-      <img src="img/logo_uasd_movil.svg" alt="" 
+
+      <img src="img/logo_uasd_movil.svg" alt=""
       class="img-fluid float-right d-block d-sm-block d-md-none">
 
     </a>
-   
+
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 		  </button>
 
-  <div class="collapse navbar-collapse  justify-content-center float-right mt-5 ml-5" 
+  <div class="collapse navbar-collapse  justify-content-center float-right mt-5 ml-5"
     id="navbar">
      <ul class="navbar-nav mr-auto">
       <li class="nav-item dropdown megamenu-li">
@@ -71,7 +73,7 @@
           <h5>Sobre la UASD</h5>
           <p>La Universidad de Santo Domingo fue creada mediante la Bula In Apostolatus Culmine, expedida el 28 de octubre de 1538 por el Papa Paulo III, la cual elevó a esa categoría el Estudio General que los dominicos regenteaban desde el 1518, en Santo Domingo, sede virreinal de la colonización y el más viejo establecimiento colonial del Nuevo Mundo.</p>
          </div>
-          
+
          <div class="col-sm-6 col-lg-4">
           <a class="dropdown-item" href="#">Historia</a>
           <a class="dropdown-item" href="#">Filosofia</a>
@@ -110,7 +112,7 @@
           <h5>OFERTA CURRICULAR</h5>
           <p>La Universidad de Santo Domingo fue creada mediante la Bula In Apostolatus Culmine, expedida el 28 de octubre de 1538 por el Papa Paulo III, la cual elevó a esa categoría el Estudio General que los dominicos regenteaban desde el 1518, en Santo Domingo, sede virreinal de la colonización y el más viejo establecimiento colonial del Nuevo Mundo.</p>
          </div>
-          
+
          <div class="col-sm-6 col-lg-4">
           <h5>GRADO</h5>
           <a class="dropdown-item" href="#">Humaidades</a>
@@ -120,7 +122,7 @@
           <a class="dropdown-item" href="#">Ingieneria</a>
           <a class="dropdown-item" href="#">Salud</a>
           <a class="dropdown-item" href="#">Artes</a>
-          <a class="dropdown-item" href="#">Educacion</a>         
+          <a class="dropdown-item" href="#">Educacion</a>
          </div>
          <div class="col-sm-6 col-lg-4">
           <h5>POSTGRADO</h5>
@@ -229,5 +231,3 @@
 
  </div>
 </div>
-
-
