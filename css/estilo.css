@@ -164,7 +164,8 @@ background-size: auto;
 .fondo_rectoria {display: block;width: 100%;height: auto;background-image: url(../img/fondo_rectoria_pagina.jpg);
 background-size: cover;padding-top: 550px;margin-top: 50px;}
 .fondo_rectoria h4 {color: #fff;font-size: 1.3rem; font-family:Maison-Neue-Bold-Italic;}
-.fondo_rectoria a {display: block;width: 100%;color: #00c4ff;font-size: 13px;line-height: 2.2;}
+.fondo_rectoria a {display: block;width: 100%;color:#fff;font-size: 13px;line-height: 2.2;}
+.fondo_rectoria a:hover {color: #00c4ff}
 .fondo_rectoria h1 {font-size: 1.2rem!important;font-weight: 200;color: #fff!important;line-height: 1.7;}
 .fondo_rectoria p {font-size: 14px;color: #fff!important;margin-top: 10px;}
 
