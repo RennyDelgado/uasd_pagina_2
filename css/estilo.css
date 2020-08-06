@@ -61,104 +61,49 @@ float: left;}
 hr.regla {margin-top: 1rem;border-top: 5px solid #0077FF;width: 5%;
 float: left;}
 
-
 .fondo-facultades { background-image:url(../img/fondo_facultades.png);
 padding-bottom:2rem;}
 
 /*UNIVERSIRATIO*/
 
-.banner-universitario {
--webkit-border-radius: 30px;
--moz-border-radius: 30px;
+.banner-universitario {-webkit-border-radius: 30px;-moz-border-radius: 30px;
 border-radius:30px;height:500px;}
 
 #universitario a.ampliar-universitario {color: #fff;text-decoration: underline;}
 
 #universitario a.ampliar-universitario:hover {text-decoration: none;}
 
-#universitario .carousel-caption {
-  position: absolute;
-    right: 15%;
-    bottom: 20px;
-    left: 10%;
-    top: 30%!important;
-    z-index: 10;
-    padding-top: 0px;
-    padding-bottom: 20px;
-    color: #fff;
-    text-align: center;
-    width: 80%;
-}
+#universitario .carousel-caption {position: absolute;right: 15%;bottom: 20px;left: 10%;
+top: 30%!important;z-index: 10;padding-top: 0px;padding-bottom: 20px;color: #fff;
+text-align: center;width: 80%;}
 
-#universitario .carousel-caption .titulo {
-    font-size: 2rem;
-    font-weight: bold;
-    text-align: center;
-    margin-top: 112px;
-}
+#universitario .carousel-caption .titulo {font-size: 2rem;font-weight: bold;
+text-align: center;margin-top: 112px;}
 
-.mas-noticias .fondo-noticia {
-width: 100%;
-height: 170px;
-background-position: center center;
-background-size: cover;
-background-repeat: no-repeat;
--webkit-border-radius: 20px;
--moz-border-radius: 20px;
-border-radius:20px;
-padding: 10px;
-}
+.mas-noticias .fondo-noticia {width: 100%;height: 170px;background-position: center center;
+background-size: cover;background-repeat: no-repeat;-webkit-border-radius: 20px;
+-moz-border-radius: 20px;border-radius:20px;padding: 10px;}
 
-.mas-noticias .fondo-noticia a.deportes {
-background-color: red;
-color: #fff;
-padding: 5px 20px 5px 20px;
--webkit-border-radius: 20px;
--moz-border-radius: 20px;
-border-radius:20px;
-font-size: 12px;
-}
+.mas-noticias .fondo-noticia a.deportes {background-color: red;color: #fff;
+padding: 5px 20px 5px 20px;-webkit-border-radius: 20px;-moz-border-radius: 20px;
+border-radius:20px;font-size: 12px;}
 
-.mas-noticias .fondo-noticia a.academia {
-  background-color: #17499F;
-  color: #fff;
-  padding: 5px 20px 5px 20px;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  border-radius:20px;
-  font-size: 12px;
-}
+.mas-noticias .fondo-noticia a.academia {background-color: #17499F;color: #fff;
+padding: 5px 20px 5px 20px;-webkit-border-radius: 20px;-moz-border-radius: 20px;
+border-radius:20px;font-size: 12px;}
 
-.mas-noticias .fondo-noticia a.ciencia {
-  background-color: #00BAEC;
-  color: #fff;
-  padding: 5px 20px 5px 20px;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  border-radius:20px;
-  font-size: 12px;
-}
+.mas-noticias .fondo-noticia a.ciencia {background-color: #00BAEC;color: #fff;
+padding: 5px 20px 5px 20px;-webkit-border-radius: 20px;-moz-border-radius: 20px;
+border-radius:20px;font-size: 12px;}
 
-.mas-noticias .fondo-noticia a.centros {
-  background-color: #0077FF;
-  color: #fff;
-  padding: 5px 20px 5px 20px;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  border-radius:20px;
-  font-size: 12px;
-}
-
+.mas-noticias .fondo-noticia a.centros {background-color: #0077FF;color: #fff;
+padding: 5px 20px 5px 20px;-webkit-border-radius: 20px;-moz-border-radius: 20px;
+border-radius:20px;font-size: 12px;}
 
 .pie-universitario .alineado { text-align: center;}
 
-.pie-universitario .revista {
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-background-size: auto;
-}
-
+.pie-universitario .revista {background-position: center center;background-size: cover;
+background-repeat: no-repeat;background-size: auto;}
 
 /*RECTORIA*/
 .fondo_rectoria {display: block;width: 100%;height: auto;background-image: url(../img/fondo_rectoria_pagina.jpg);
@@ -257,7 +202,6 @@ display: flex;width: 50px; float: right; margin-top:344px; height:56px;}
 .fondo_rectoria ul.lista_egresados {margin-left: -3rem;}
 
 
-
 /*AGENDA*/
 .agenda_dias {background-image: url(img/image_agenda.png);padding: 0px;}
 .agenda_color {background-color: rgba(9, 135, 255, 0.85);width: 100%;padding: 20px;
@@ -275,14 +219,8 @@ border-radius: 40px;text-align: center;margin-top: 1rem;}
 .agenda .agenda_dias ul li:hover {
   background-color: #80bcdc;
 }
-.agenda .agenda_dias ul li {
-    background: #B1E4FF;
-    width: 90%;
-    padding: 8px;
-    border-radius: 30px;
-    text-align: center;
-    margin-top: 1rem;
-    margin-bottom:25.5px;}
+.agenda .agenda_dias ul li {background: #B1E4FF;width: 90%;padding: 8px;border-radius: 30px;
+text-align: center;margin-top: 1rem;margin-bottom:25.5px;}
 
 .agenda{ padding: 0px!important;}
 
@@ -347,9 +285,7 @@ border-radius: 23px;color: #fff;font-size: 14px;position: relative;z-index: 5000
 }
 
 .agenda .detalle-dias .carousel-item {height: 600px;min-height: 350px;
-background-repeat: no-repeat;background-size: cover;
-background-position: center center;
-}
+background-repeat: no-repeat;background-size: cover;background-position: center center;}
 
 
 /*COMVENIOS*/
@@ -422,8 +358,6 @@ margin-bottom:2rem;font-weight:bold;}
 
 
 
-
-
 /*BANNER MOVIL: ;*/
 @media only screen
   and (min-width: 320px)
@@ -444,24 +378,11 @@ margin-bottom:2rem;font-weight:bold;}
     width: 82%;
 }
 
-.descripcion {
-    font-size: 1.5rem;
-    text-align: left;
-    display: none;
-}
+.descripcion {font-size: 1.5rem;text-align: left;display: none;}
 
-.carousel-caption .titulo {
-    font-size: 2rem;
-    font-weight: bold;
-    text-align: left;
-    margin-bottom: 25px;
-    margin-top: -50px;
-}
+.carousel-caption .titulo {font-size: 2rem;font-weight: bold;text-align: left;
+margin-bottom: 25px;margin-top: -50px;}
 
-
-.navbar-toggler {
-    padding: .25rem .25rem;
-
-  }
+.navbar-toggler {padding: .25rem .25rem;}
 
 }
