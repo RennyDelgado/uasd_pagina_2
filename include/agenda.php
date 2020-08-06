@@ -1,11 +1,6 @@
-
-
 <div class="container-fluid fondo_agenda mt-5">
-
 <div class="container agenda">
-
     <div class="row">
-
     <div class="col-12">
 
 	<div class="col-lg-5 col-md-5 col-xs-5 float-left agenda_dias"
@@ -13,27 +8,32 @@
         <div class="agenda_color">
             <div class="dias">
                 <ul clas="list-group" id="menuList">
-                    <li class="activo ver_agenda">
-                      <a href="javascript:void(0)"
-                      onClick="oculta('demo1')">01</a></li>
-                    <li>
+                    <li class="activo ver_agenda dias_agenda">
+                      <a href="javascript:void(0)">01</a></li>
+                    <li class="dias_agenda">
                       <a href="javascript:void(0)" class="valor ver_agenda">02</a></li>
-                    <li>
+                    <li class="dias_agenda">
                       <a href="javascript:void(0)" class="ver_agenda">03</a>
                     </li>
-                    <li><a href="javascript:void(0)" class="ver_agenda">04</a>
+                    <li class="dias_agenda"><a href="javascript:void(0)" class="ver_agenda">04</a>
                     </li>
-                    <li><a href="javascript:void(0);" onClick="javascript:oculta('item4')"
+                    <li class="dias_agenda">
+                      <a href="javascript:void(0);" onClick="javascript:oculta('item4')"
                       clas="ver_agenda">05</a></li>
-                    <li><a href="javascript:void(0);" onClick="javascript:oculta('item5')"
+                    <li class="dias_agenda">
+                      <a href="javascript:void(0);" onClick="javascript:oculta('item5')"
                       clas="ver_agenda">06</a></li>
-                    <li><a href="javascript:void(0);" onClick="javascript:oculta('item6')"
+                    <li class="dias_agenda">
+                      <a href="javascript:void(0);" onClick="javascript:oculta('item6')"
                       clas="ver_agenda">07</a></li>
-                    <li><a href="javascript:void(0);" onclick="javascript:oculta('item7')"
+                    <li class="dias_agenda">
+                      <a href="javascript:void(0);" onclick="javascript:oculta('item7')"
                       clas="ver_agenda">08</a></li>
-                    <li><a href="javascript:void(0);" onclick="javascript:oculta('item8')"
+                    <li class="dias_agenda">
+                      <a href="javascript:void(0);" onclick="javascript:oculta('item8')"
                       clas="ver_agenda">09</a></li>
-                    <li><a href="javascript:void(0);" onclick="javascript:oculta('item9')"
+                    <li class="dias_agenda">
+                      <a href="javascript:void(0);" onclick="javascript:oculta('item9')"
                       clas="ver_agenda">10</a></li>
                 </ul>
 					</div>
@@ -48,15 +48,17 @@
            </div>
           </div>
 		</div>
+
+
 <div class="col-lg-7 col-md-7 col-xs-7 float-left pt-5 detalle-dias" id="content">
 
-<div id="demo1" class="carousel slide content active" data-ride="carousel">
+<div id="agenda_demo1" class="carousel slide content active" data-ride="carousel">
 <h3>agenda | JUEVES, 20 de junio de 2020</h3>
   <hr class="regla_titulo">
           <ol class="carousel-indicators">
-             <li data-target="#demo1" data-slide-to="0" class="active"></li>
-             <li data-target="#demo1" data-slide-to="1"></li>
-             <li data-target="#demo1" data-slide-to="2"></li>
+             <li data-target="#agenda_demo1" data-slide-to="0" class="active"></li>
+             <li data-target="#agenda_demo1" data-slide-to="1"></li>
+             <li data-target="#agenda_demo1" data-slide-to="2"></li>
            </ol>
 <div class="carousel-inner" id="#uno">
 <div class="carousel-item active">
@@ -150,13 +152,13 @@
 <a href="#" class="todas-actividades">TODAS LAS ACTIVIDAES</a>
 </div>
 <!-- SEGUNDA PARTE DE LA AGENDA -->
-<div id="demo2" class="carousel slide eventos_dia content" data-ride="carousel">
+<div id="agenda_demo2" class="carousel slide eventos_dia content" data-ride="carousel">
   <h3>agenda | VIERNES, 22 de junio de 2019</h3>
   <hr class="regla_titulo">
           <ol class="carousel-indicators">
-             <li data-target="#demo2" data-slide-to="0" class="active"></li>
-             <li data-target="#demo2" data-slide-to="1"></li>
-             <li data-target="#demo2" data-slide-to="2"></li>
+             <li data-target="#agenda_demo2" data-slide-to="0" class="active"></li>
+             <li data-target="#agenda_demo2" data-slide-to="1"></li>
+             <li data-target="#agenda_demo2" data-slide-to="2"></li>
            </ol>
 <div class="carousel-inner" id="#uno">
 <div class="carousel-item active">
@@ -250,13 +252,13 @@
 <a href="#" class="todas-actividades">TODAS LAS ACTIVIDAES</a>
 </div>
 <!-- TERCERA PARTE DE LA AGENDA -->
-<div id="demo3" class="carousel slide eventos_dia content" data-ride="carousel">
+<div id="agenda_demo3" class="carousel slide eventos_dia content" data-ride="carousel">
 <h3>agenda | SABADO, 23 de junio de 2019</h3>
   <hr class="regla_titulo">
           <ol class="carousel-indicators">
-             <li data-target="#demo3" data-slide-to="0" class="active"></li>
-             <li data-target="#demo3" data-slide-to="1"></li>
-             <li data-target="#demo3" data-slide-to="2"></li>
+             <li data-target="#agenda_demo3" data-slide-to="0" class="active"></li>
+             <li data-target="#agenda_demo3" data-slide-to="1"></li>
+             <li data-target="#agenda_demo3" data-slide-to="2"></li>
            </ol>
 <div class="carousel-inner" id="#uno">
 <div class="carousel-item active">
@@ -350,15 +352,10 @@
 <a href="#" class="todas-actividades">TODAS LAS ACTIVIDAES</a>
 </div>
 
-
-
-
         </div>
 			</div>
 
 		</div>
 	</div>
 
-
-</div>
 </div>

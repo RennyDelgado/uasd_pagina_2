@@ -15,6 +15,10 @@ include('include/rectoria.php');
 ?>
 
 <?php
+include('include/egresados.php');
+?>
+
+<?php
 include('include/facultades.php');
 ?>
 
@@ -26,10 +30,18 @@ include('include/eluniversitario.php');
 include('include/agenda.php');
 ?>
 
-
-
-<br><br><br><br><br><br><br><br><br><br><br>
+<?php
+include('include/convenios.php');
+?>
 
 <?php
-include('include/footer.php');
+include('include/administrativo.php');
+?>
+
+<?php
+include('include/pie_de_pagina.php');
  ?>
+
+ <?php
+ include('include/footer.php');
+  ?>

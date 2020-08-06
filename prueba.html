@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <script>
+      function oculta(elemento) {
+          ///// capturamos el elemento
+
+      item=$("#"+elemento);
+         ///// verificamos su estado
+      if($(item).hasClass('visible')) {
+          $(item).removeClass('visible');
+                  //// cambiamos su estado
+          $(item).addClass('invisible');
+                  //// animamos
+          $(item).slideUp('fast');
+      } else {
+          //$(item).removeClass('invisible');
+          $(item).addClass('visible');
+          $(item).slideDown('fast');
+      }
+  }
+    </script>
+
+
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+
+  <div class="visible" id="item1" style="display:none;">
+      <input type="text" size="25" />
+  </div>
+  <div class="visible" id="item2" style="display:none;">
+      <input type="text" size="25" />
+  </div>
+  <div class="visible" id="item3" style="display:none;">
+      <input type="text" size="25" />
+  </div>
+  <div class="visible" id="item4" style="display:none;">
+      <input type="text" size="25" />
+  </div>
+  <div class="visible" id="item5" style="display:none;">
+      <input type="text" size="25" />
+  </div>
+  <div class="visible" id="item6" style="display:none;">
+      <input type="text" size="25" />
+  </div>
+
+
+  <ul>
+    <li><a href="javascript:void(0)" onclick="javascript:oculta('item1')">Oculta/Muestra</a></li>
+    <li><a href="javascript:void(0)" onclick="javascript:oculta('item2')">Oculta/Muestra</a></li>
+    <li><a href="javascript:void(0)" onclick="javascript:oculta('item3')">Oculta/Muestra</a></li>
+    <li><a href="#" onclick="javascript:oculta('item4')">Oculta/Muestra</a></li>
+    <li><a href="#" onclick="javascript:oculta('item5')">Oculta/Muestra</a></li>
+    <li><a href="#" onclick="javascript:oculta('item6')">Oculta/Muestra</a></li>
+</ul>
+
+
+</body>
+</html>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

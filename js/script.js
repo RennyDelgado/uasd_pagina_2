@@ -14,6 +14,34 @@ $("#menuList li").on("click", function(){
   $("#content .content").eq(tabIndex).addClass("active");
 });
 
+/*para los numeros de los dias*/
+$("#menuList li").on("click", function(){
+	var tabIndex = $(this).index();
+	$(".dias_agenda").removeClass("activo");
+	$(".dias_agenda").eq(tabIndex).addClass("activo");
+});
+
+$(".egresado_foto").on('click',function(){
+
+  //let imagen = $(this).data(imagen);
+let imagen = $(this).data('imagen');
+let frase = $(this).data('frase');
+let nombre = $(this).data('nombre');
+let profesion = $(this).data('profesion');
+let facultad = $(this).data('facultad');
+
+//aqui le paso la foto en grande al otro elemento
+
+//$(".foto_grande").css("background-image",imagen);
+//$(".foto_grande").css("background-image",url(imagen));
+
+$(".foto_grande").css("background-image","url("+imagen+")").show('slow');
+$(".foto_facultad").attr('src', facultad);
+$(".frase_egresado").html(frase);
+$(".nombre_egresado").html(nombre);
+$(".especialidad_egresado").html(profesion);
+
+});
 
 //function oculta(elemento) {
 //alert(elemento);

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+
+  <p>Pregunta 1... (<a href="#" class="alternar-respuesta">ver respuesta</a>)</p>
+
+  <p class="respuesta" style="display:none">Respuesta 1...</p>
+
+  <p>Pregunta 2... (<a href="#" class="alternar-respuesta">ver respuesta</a>)</p>
+  <p class="respuesta" style="display:none">Respuesta 2...</p>
+
+  <p>Pregunta 3... (<a href="#" class="alternar-respuesta">ver respuesta</a>)</p>
+  <p class="respuesta" style="display:none">Respuesta 3...</p>
+
+  <a href="#" id="alternar-todo">Mostrar y ocultar todas las respuestas</a>
+
+</body>
+</html>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+  $(document).ready(function(){
+    $('.alternar-respuesta').on('click',function(e){
+        $(this).parent().next().toggle('fast');
+        e.preventDefault();
+    });
+    $('#alternar-todo').on('click',function(e){
+        $('.respuesta').toggle('slow');
+        e.preventDefault();
+    });
+});
+
+  </script>

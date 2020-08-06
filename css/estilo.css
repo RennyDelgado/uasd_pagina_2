@@ -1,3 +1,5 @@
+@import url(fonts.css);
+
 .juridica { color:#FF1C07;}
 .agronomia {color: #00A651;}
 .economia {color: #F47B20;}
@@ -8,96 +10,44 @@
 .medicina {color:#F3FA33;}
 .educacion {color:#911422;}
 
+.carousel-item { height:700px;min-height: 350px;background-repeat: no-repeat;
+  background-size: cover;background-position: center center;}
 
-  .carousel-item {
-  height:700px;
-  min-height: 350px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-}
+.carousel-caption .titulo {font-size: 3.5rem;font-weight: bold;text-align: left;
+margin-top: -35px;font-family: SF-Pro-Display-Bold;}
 
-.carousel-caption .titulo {
-  font-size: 3.5rem;
-    font-weight: bold;
-    text-align: left;
-    margin-top: -35px;
-}
+.carousel-inner .descripcion {font-size:1.1rem;text-align:left;font-family:Maison-Neue-Light;}
 
-.descripcion {
-  font-size: 1.5rem;
-  text-align: left;
-}
 .invisible {display:none!important;}
 
-#content div.active{
-  display:block;
-}
-#content .content{
-  display:none;
-}
+#content .content.active{display:block;}
+#content .content{ display:none;transition-duration: 1s;}
 
-.carousel-caption {
-    position: absolute;
-    right: 15%;
-    bottom: 20px;
-    left: 15%;
-    top: 18%!important;
-    z-index: 10;
-    padding-top: 0px;
-    padding-bottom: 20px;
-    color: #fff;
-    text-align: center;
-    width: 50%;
-}
+.carousel-caption {position: absolute;right: 15%;bottom: 20px;left: 15%;top: 18%!important;
+z-index: 10;padding-top: 0px;padding-bottom: 20px;color: #fff;text-align: center;width: 50%;}
 
-a.carousel-control-prev .carousel-control-next-icon{
-    display: inline-block;
-    width: 60px!important;
-    height: 60px!important;
-    background: transparent no-repeat center center;
-    background-size: 100% 100%;
-}
+a.carousel-control-prev .carousel-control-next-icon{display: inline-block;width: 60px!important;
+height: 60px!important;background: transparent no-repeat center center;background-size: 100% 100%;}
 
-.fondo {
-background: linear-gradient(0deg, rgba(2,0,36,1) 0%,
+.fondo {background: linear-gradient(0deg, rgba(2,0,36,1) 0%,
 rgba(14,5,140,1) 0%, rgba(19,8,187,0.8463760504201681) -5%,
-rgba(0,212,255,0) 95%, rgba(22,9,210,0) 100%);
-width: 100%;
-height: 200px;
-position: relative;
-top: 500px;
-
-}
+rgba(0,212,255,0) 95%, rgba(22,9,210,0) 100%);width: 100%;height: 200px;position: relative;
+top: 500px;}
 
 .fondo_azul {
+background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(14,5,140,1) 0%, rgba(19,8,187,0.8463760504201681) -5%, rgba(0,212,255,0) 95%, rgba(22,9,210,0) 100%);
+width: 100%;height: 200px;position: relative;top: 500px;}
 
-  background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(14,5,140,1) 0%, rgba(19,8,187,0.8463760504201681) -5%, rgba(0,212,255,0) 95%, rgba(22,9,210,0) 100%);
-    width: 100%;
-    height: 200px;
-    position: relative;
-    top: 500px;
+.carousel-control-next-icon, .carousel-control-prev-icon {display: inline-block;width: 50px;
+height: 50px;background-size: 100% 100%;
+background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' f…3E%3Cpath d='M4 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E);
 }
-
-
-.carousel-control-next-icon, .carousel-control-prev-icon {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    background-size: 100% 100%;
-    background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' f…3E%3Cpath d='M4 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E);
-}
-
 
 /*SERVICIOS*/
-
 .card { border: 0px; }
-
 .servicios .card h5 {font-size: 1rem;text-align: center;}
 
-
 /*FACULTADES*/
-
 .facultades .card h5 {font-size: 1rem;text-align: center; text-transform: uppercase;}
 .facultades .card  p { font-size: 14px; color: darkslategrey;text-align: center;}
 .facultades .no-blanco {background-color:transparent!important;}
@@ -107,6 +57,10 @@ width: 5%;float: left;}
 
 hr.regla_titulo {margin-top: 1rem;border-top: 5px solid #0077FF;width: 5%;
 float: left;}
+
+hr.regla {margin-top: 1rem;border-top: 5px solid #0077FF;width: 5%;
+float: left;}
+
 
 .fondo-facultades { background-image:url(../img/fondo_facultades.png);
 padding-bottom:2rem;}
@@ -207,104 +161,101 @@ background-size: auto;
 
 
 /*RECTORIA*/
+.fondo_rectoria {display: block;width: 100%;height: auto;background-image: url(../img/fondo_rectoria_pagina.jpg);
+background-size: cover;padding-top: 550px;margin-top: 50px;}
+.fondo_rectoria h4 {color: #fff;font-size: 1.3rem; font-family:Maison-Neue-Bold-Italic;}
+.fondo_rectoria a {display: block;width: 100%;color: #00c4ff;font-size: 13px;line-height: 2.2;}
+.fondo_rectoria h1 {font-size: 1.2rem!important;font-weight: 200;color: #fff!important;line-height: 1.7;}
+.fondo_rectoria p {font-size: 14px;color: #fff!important;margin-top: 10px;}
 
-.fondo_rectoria {
-    display: block;
-    width: 100%;
-    height: auto;
-    background-image:url(../img/fondo_rectoria_pagina.jpg);
-    background-size: cover;
-    background-position: center center;
-    padding-top: 500px;
-    margin-top: 50px;
-  }
+.fondo_rectoria .nombre_egresado {font-size: 1rem;text-transform: uppercase;color: #fff;
+margin-top: 1rem;}
 
+.fondo_rectoria .especialidad_egresado {font-size: 12px;color: #00dcff;
+width: 50%;font-weight: 100;line-height: 1.5;}
 
-.fondo_rectoria h4 {
-  color: #fff;
-  font-size: 1.3rem;
-}
-
-.fondo_rectoria a {
-    display: block;
-    width: 100%;
-    color: #00c4ff;
-    font-size: 13px;
-    line-height: 2.2;
-}
-
-.fondo_rectoria h1 {
-  font-size: 1.2rem!important;
-  font-weight: 200;
-  color: #fff!important;
-  line-height: 1.7;
-}
-
-
-.fondo_rectoria p {
-  font-size: 14px;
-    color: #fff!important;
-    margin-top: 10px;
-}
-
-.fondo_rectoria .nombre_egresado {
-  font-size: 1rem;
-  text-transform: uppercase;
-  color: #fff;
-  margin-top: 1rem;
-
-}
-
-.fondo_rectoria .especialidad_egresado {
-  font-size: 12px;
-  color: #00dcff;
-  width: 50%;
-  font-weight: 100;
-  line-height: 1.5;
-}
-
-.fondo_rectoria h5.doctora {
-    font-size: 1rem!important;
-    color: #fff!important;
-}
-
-.fondo_rectoria h5.primera {
-    font-size: 14px;
-    color:#03FAEB;
-    font-weight: 200;
-}
-
-.fondo_rectoria hr.regla{
-    margin-top: 4rem;
-    margin-bottom: 1rem;
-    border: 0;
-    border-top: 1px solid #00dcff;
-}
-
-
-.fondo_rectoria h3.nuestros_egresados {
-    color: #fff;
-    font-size: 1.5rem;
-    margin-top: 5rem;
-}
-
-.fondo_rectoria hr.regla_egresados {margin-top: 1rem;
-border-top: 5px solid #0077FF;
-    width: 5%;
-    float: left;
-}
-
+.fondo_rectoria h5.doctora {font-size: 1rem!important;color: #fff!important;}
+.fondo_rectoria h5.primera {font-size: 14px;color:#03FAEB;font-weight: 200;}
+.fondo_rectoria hr.regla{margin-top: 4rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #00dcff;}
+.fondo_rectoria h3.nuestros_egresados {color: #fff;font-size: 1.5rem;margin-top: 5rem;}
 .fondo_rectoria .foto_egresado { margin-right: 5rem; margin-left: -20px; }
+.fondo_rectoria ul.lista_egresados li {list-style-type: none;float: left;}
+.fondo_rectoria ul.lista_egresados {margin-left: -3rem;}
+.fondo_rectoria hr.regla_egresados {margin-top: 1rem;border-top: 5px solid #0077FF;
+width: 5%;float: left;}
+.titulo{text-transform: uppercase;font-size: 1.5rem;}
+.parrafo {font-size: 15px;font-family: sans-serif;text-align: left;}
 
-.fondo_rectoria ul.lista_egresados li {
-  list-style-type: none;
-  float: left;
-}
+
+/*EGREASDOS*/
+.fondo_egresados { background: #17499e}
+.egresados h1 {font-size: 1.2rem!important;font-weight: 200;color: #fff!important;line-height: 1.7;}
+.egresados .nombre_egresado {font-size: 1rem;text-transform: uppercase;color: #fff;
+margin-top: 1rem;}
+
+.egresados .especialidad_egresado {font-size: 14px;color: #00dcff;
+width:100%;font-weight: 100;line-height: 1.5;}
+
+.egresados h5.doctora {font-size: 1rem!important;color: #fff!important;}
+
+.egresados h5.primera {font-size: 14px;color:#03FAEB;font-weight: 200;}
+
+.egresados hr.regla{margin-top: 4rem;margin-bottom: 3rem;border: 0;border-top: 1px solid #00dcff; width: 100%;}
+
+.egresados h3.nuestros_egresados {color: #fff;font-size: 1.5rem;margin-top: 5rem;}
+
+.egresados .titulo{text-transform: uppercase;font-size: 1.5rem;}
+
+.egresados .datos_egresados { position: relative; z-index: 8000;}
+
+.egresados li.egresado_foto:hover { cursor: pointer;}
+
+.egresados .parrafo {font-size: 15px;font-family: sans-serif;text-align: left;}
+
+.egresados hr.regla_egresados {margin-top: 1rem;margin-bottom: 3rem;border-top: 5px solid #0077FF;
+width: 5%;float: left;}
+
+.egresados .foto_egresado { margin-right: 5rem; margin-left: -20px;background-size: cover;
+background-repeat: no-repeat;background-position: center;border-radius: 30px;height: 400px;}
+
+.egresados ul.lista_egresados li {list-style-type: none;float: left;
+width: 25%;height: 180px;margin-right: 2rem;background-size: cover;background-repeat: no-repeat;
+background-position: center;border-radius: 30px; text-align: center;}
+
+.egresados ul.lista_egresados li a.lista_egresado {float: left;vertical-align: bottom;
+    margin-top: 183px;color: #fff;text-align: center;font-size: 12px; width: 100%; display: block;
+  text-transform: uppercase;}
+
+.egresados ul.lista_egresados li img {border-radius: 35px;}
+
+.egresados ul.lista_egresados { margin-left: -40px;}
+
+.egresados .carousel-item { height: auto!important;min-height: 280px!important;}
+
+.egresados .carousel-indicators li {position: relative;-ms-flex: 0 1 auto;
+flex: 0 1 auto;width:25px;height: 25px;margin-right: 12px;margin-left: 3px;
+border-radius: 30px;
+text-indent: -999px;background-color: rgba(255,255,255,.5);}
+
+.egresados .carousel-indicators .active {background-color: #fff;}
+
+.egresados .carousel-indicators li:hover {cursor:pointer;background-color: #0077ff;}
+
+.egresados .ver_mas_egresado a {background: #0077FF;color: #fff;font-size: 2rem;
+border-radius: 25px 0 15px 0;-webkit-border-radius: 25px 0 15px 0;padding: 1px 10px 10px 15px;
+display: flex;width: 50px; float: right; margin-top:344px; height:56px;}
+
+.egresados .ver_mas_egresado a:hover {text-decoration: none;background-color: blue;}
+
+.egresados .facultad_egresado { margin: 4px 5px 5px 5px;}
+
+.egresados .facultad_egresado img {width:20%;}
+
+.egresados .espacio_egresados { padding-left: 30px;}
+
+.fondo_rectoria ul.lista_egresados {margin-left: -3rem;}
 
 
-.fondo_rectoria ul.lista_egresados {
-  margin-left: -3rem;
-}
 
 /*AGENDA*/
 .agenda_dias {background-image: url(img/image_agenda.png);padding: 0px;}
@@ -317,14 +268,12 @@ margin-top: 20px;color: #fff;}
 
 .agenda .agenda_dias ul{ list-style-type: none;}
 
-.agenda .agenda_dias ul li.activo {background: #fff;
-    width: 100%;
-    padding: 10px;
-    border-radius: 40px;
-    text-align: center;
-    margin-top: 1rem;
-  }
+.agenda .agenda_dias ul li.activo {background: #fff;width: 100%;padding: 10px;
+border-radius: 40px;text-align: center;margin-top: 1rem;}
 
+.agenda .agenda_dias ul li:hover {
+  background-color: #80bcdc;
+}
 .agenda .agenda_dias ul li {
     background: #B1E4FF;
     width: 90%;
@@ -332,7 +281,9 @@ margin-top: 20px;color: #fff;}
     border-radius: 30px;
     text-align: center;
     margin-top: 1rem;
-    margin-bottom: 29px;}
+    margin-bottom:25.5px;}
+
+.agenda{ padding: 0px!important;}
 
 .agenda .datos .hora_detalle {margin-top: 1rem;font-size: 1.5rem;margin-bottom: 2rem;}
 
@@ -381,9 +332,9 @@ border-radius: 23px;color: #fff;font-size: 14px;position: relative;z-index: 5000
     /* list-style: none; */
 }
 .agenda .detalle-dias .carousel-indicators .active {background-color: #288fe0;}
-
+.agenda .detalle-dias .carousel-indicators li:hover {cursor:pointer;background-color: #135e98;}
 .agenda .detalle-dias .carousel-indicators li {
-    position: relative;
+  position: relative;
     -ms-flex: 0 1 auto;
     flex: 0 1 auto;
     width: 30px;
@@ -400,9 +351,47 @@ background-position: center center;
 }
 
 
+/*COMVENIOS*/
+.convenios{background-color: #f5f5f569;}
+.convenios .parrafo {font-size: 15px;font-family: sans-serif;text-align: left;display: block;
+margin-top: 5rem;width: 56%;}
+.convenios .lista-convenios {text-align:center; justify-content:center;}
+.convenios .lista-convenios img{filter: grayscale(1);
+  transition-property: filter;transition-duration: 1s; width:70%;}
+.convenios .lista-convenios img:hover {filter: grayscale(0%);}
+
+/*ADMINISTRATIVO*/
+.fondo-administrativo {
+  background-image: linear-gradient( rgba(4, 65, 117, 0.75), rgba(10, 134, 220, 0.87)),url(../img/edificio_administrativo.png);
+  background-repeat: no-repeat;background-size: cover;}
+.administrativo ul li a {color: #fff;text-decoration: none;}
+.administrativo ul li a:hover {color: #fff;text-decoration:underline;}
+.administrativo ul li {list-style-type: none;margin-bottom:10px;}
+.administrativo h3.titulo-menu {color: #fff;font-size: 1.2rem;display: block;margin-left: 40px;
+margin-bottom:2rem;font-weight:bold;}
+
+.administrativo h3 {color: #fff;font-size: 1.54rem;display: block;}
+
+
+/*PIE DE PAGINA*/
+.pie_de_pagina ul li a {color: #fff;text-decoration: none;font-size: 14px;}
+.pie_de_pagina ul li a:hover {color: #fff;text-decoration:underline;}
+.pie_de_pagina ul li {list-style-type: none;margin-bottom:5px;}
+.pie_de_pagina ul.redes_sociales li {list-style-type: none;margin-bottom:5px;float: left;margin-right: 20px;}
+a.enlace_redes {float: left;color: #fff;margin-top: 2rem;}
+.pie_de_pagina h3.titulo-menu {color: #fff;font-size: 1.2rem;display: block;margin-left: 40px;
+margin-bottom:2rem;font-weight:bold;}
+.pie_de_pagina  h3 { color: #fff;font-size: 1.54rem;display: block;}
+.pie_de_pagina .linea_pie { border-top:solid 1px #155dda;}
+.color-pie {background-color: #17499F;}
+.pie_final {background-color: #eaeaea;display: block;float: left;}
+.pie_final ul li a {color: #5f5f5f;text-decoration: none;font-size: 14px;margin-right: 10px;margin-left: 10px;}
+.pie_final ul li a:hover {text-decoration:underline;}
+.pie_final ul li {list-style-type: none;margin-bottom:20px;float: left;border-right: solid 1px silver;}
+.pie_final p { float: left; display: block; font-size: 13px;}
+
 
 /*PC ALTO*/
-
 @media (max-width: 1200px) {
 
 .carousel-caption {

@@ -14,11 +14,7 @@
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/estilo.css">
 
-
-
-
 </head>
-
 <body>
 <!-- partial:index.partial.html -->
   <div class="container">
@@ -39,7 +35,6 @@
     </div>
   </div>
 
-
 <div class="container-fluid fondo-menu">
  <div class="row justify-content-center aling-items-center">
   <center>
@@ -54,9 +49,7 @@
 
       <img src="img/logo_uasd_movil.svg" alt=""
       class="img-fluid float-right d-block d-sm-block d-md-none">
-
     </a>
-
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
