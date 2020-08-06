@@ -11,7 +11,7 @@
 .educacion {color:#911422;}
 
 .carousel-item { height:700px;min-height: 350px;background-repeat: no-repeat;
-  background-size: cover;background-position: center center;}
+background-size: cover;background-position: center center;}
 
 .carousel-caption .titulo {font-size: 3.5rem;font-weight: bold;text-align: left;
 margin-top: -35px;font-family: SF-Pro-Display-Bold;}
@@ -45,7 +45,12 @@ background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w
 
 /*SERVICIOS*/
 .card { border: 0px; }
-.servicios .card h5 {font-size: 1rem;text-align: center;}
+.servicios .card h5 {font-size: 1rem;text-align: center; margin-top: 10px;}
+.servicios p {text-align: center;font-size: 13px;line-height: 1.7;
+font-family:Maison-Neue-Light;}
+.servicios .card-body { padding: 0px!important;}
+.servicios h5 { font-family: SF-Pro-Display-Bold;}
+
 
 /*FACULTADES*/
 .facultades .card h5 {font-size: 1rem;text-align: center; text-transform: uppercase;}
