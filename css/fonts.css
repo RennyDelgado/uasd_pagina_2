@@ -1,5 +1,3 @@
-@font-face{font-family:'Maison-Neue-Bold-Italic';
-src: url('../fonts/Maison-Neue-Bold-Italic.woff');}
 
 @font-face{font-family:'Maison-Neue-Bold';
 src: url('../fonts/Maison-Neue-Bold.woff');}
@@ -7,8 +5,85 @@ src: url('../fonts/Maison-Neue-Bold.woff');}
 @font-face{font-family:'Maison-Neue-Light';
 src: url('../fonts/Maison-Neue-Light.woff');}
 
+@font-face{font-family:'Maison-Neue-Bold-Italic';
+src: url('../fonts/Maison-Neue-Bold-Italic.woff');}
+
+@font-face{font-family:'Maison-Neue-Demi';
+src: url('../fonts/Maison-Neue-Demi.woff');}
+
+@font-face{font-family:'Maison-Neue-Light-Italic';
+src: url('../fonts/Maison-Neue-Light-Italic.woff');}
+
+@font-face{font-family:'Maison-Neue-Medium';
+src: url('../fonts/Maison-Neue-Medium.woff');}
+
+@font-face{font-family:'Maison-Neue-Medium-Italic';
+src: url('../fonts/Maison-Neue-Medium-Italic.woff');}
+
+@font-face{font-family:'Maison-Neue-Mono';
+src: url('../fonts/Maison-Neue-Mono.woff');}
+
+@font-face{font-family:'Maison-Neue-Mono-Italic';
+src: url('../fonts/Maison-Neue-Mono.woff');}
+
+/*-------------------------------------------------*/
+
+@font-face{font-family:'SF-Compact-Text-Regular';
+src: url('../fonts/SF-Compact-Text-Regular.woff');}
+
+@font-face{font-family:'SF-Pro-Display-Black';
+src: url('../fonts/SF-Pro-Display-Black.woff');}
+
+@font-face{font-family:'SF-Pro-Display-Black_1';
+src: url('../fonts/SF-Pro-Display-Black_1.woff');}
+
+@font-face{font-family:'SF-Pro-Display-BlackItalic';
+src: url('../fonts/SF-Pro-Display-BlackItalic.woff');}
+
 @font-face{font-family:'SF-Pro-Display-Bold';
 src: url('../fonts/SF-Pro-Display-Bold.woff');}
 
+@font-face{font-family:'SF-Pro-Display-BoldItalic';
+src: url('../fonts/SF-Pro-Display-BoldItalic.woff');}
+
 @font-face{font-family:'SF-Pro-Display-Ultralight';
 src: url('../fonts/SF-Pro-Display-Ultralight.woff');}
+
+@font-face{font-family:'SF-Pro-Display-Heavy';
+src: url('../fonts/SF-Pro-Display-Heavy.woff');}
+
+@font-face{font-family:'SF-Pro-Display-HeavyItalic';
+src: url('../fonts/SF-Pro-Display-HeavyItalic.woff');}
+
+@font-face{font-family:'SF-Pro-Display-Light';
+src: url('../fonts/SF-Pro-Display-Light.woff');}
+
+@font-face{font-family:'SF-Pro-Display-LightItalic';
+src: url('../fonts/SF-Pro-Display-LightItalic.woff');}
+
+@font-face{font-family:'SF-Pro-Display-MediumItalic';
+src: url('../fonts/SF-Pro-Display-MediumItalic.woff');}
+
+@font-face{font-family:'SF-Pro-Display-Regular';
+src: url('../fonts/SF-Pro-Display-Regular.woff');}
+
+@font-face{font-family:'SF-Pro-Display-RegularItalic';
+src: url('../fonts/SF-Pro-Display-RegularItalic.woff');}
+
+@font-face{font-family:'SF-Pro-Display-Semibold';
+src: url('../fonts/SF-Pro-Display-Semibold.woff');}
+
+@font-face{font-family:'SF-Pro-Display-SemiboldItalic';
+src: url('../fonts/SF-Pro-Display-SemiboldItalic.woff');}
+
+@font-face{font-family:'SF-Pro-Display-Thin';
+src: url('../fonts/SF-Pro-Display-Thin.woff');}
+
+@font-face{font-family:'SF-Pro-Display-ThinItalic';
+src: url('../fonts/SF-Pro-Display-ThinItalic.woff');}
+
+@font-face{font-family:'SF-Pro-Display-Ultralight';
+src: url('../fonts/SF-Pro-Display-Ultralight.woff');}
+
+@font-face{font-family:'SF-Pro-Display-UltralightItalic';
+src: url('../fonts/SF-Pro-Display-UltralightItalic.woff');}
