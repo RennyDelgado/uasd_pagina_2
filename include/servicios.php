@@ -23,7 +23,6 @@
 		  <div class="card-body">
     		<h5 class="card-title">SISMOLOGICO UASD</h5>
 					<p><a href="#">Actividad Sísmica de R.D.</a></p>
-
   	</div>
 </div>
 
@@ -38,7 +37,7 @@
 <div class="card col-lg-2 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/Calendario_Academico.svg">
 		  <div class="card-body">
-    		<h5 class="card-title">CALENDARIO ACADEMICO</h5>
+    		<h5 class="card-title">CALEN. ACADEMICO</h5>
 				<p><a href="#">Inicio y término de semestre, inscripciones, investidura</a></p>
   	</div>
 </div>

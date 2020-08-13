@@ -48,8 +48,12 @@ background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w
 .servicios .card h5 {font-size: 1rem;text-align: center; margin-top: 10px;}
 .servicios p {text-align: center;font-size: 13px;line-height: 1.7;
 font-family:Maison-Neue-Light;}
+.servicios p a { color: black;}
 .servicios .card-body { padding: 0px!important;}
 .servicios h5 { font-family: SF-Pro-Display-Bold;}
+.servicios .btn-primary {font-family:Maison-Neue-Bold;padding: 15px 40px 15px 40px;
+border-radius: 30px;}
+
 
 
 /*FACULTADES*/
@@ -114,19 +118,21 @@ background-repeat: no-repeat;background-size: auto;}
 .fondo_rectoria {display: block;width: 100%;height: auto;background-image: url(../img/fondo_rectoria_pagina.jpg);
 background-size: cover;padding-top: 550px;margin-top: 50px;}
 .fondo_rectoria h4 {color: #fff;font-size: 1.3rem; font-family:Maison-Neue-Bold-Italic;}
-.fondo_rectoria a {display: block;width: 100%;color:#fff;font-size: 13px;line-height: 2.2;}
+.fondo_rectoria a {display: block;width: 100%;color:#fff;font-size: 13px;line-height: 2.2;
+font-family: Maison-Neue-Light;}
 .fondo_rectoria a:hover {color: #00c4ff}
-.fondo_rectoria h1 {font-size: 1.2rem!important;font-weight: 200;color: #fff!important;line-height: 1.7;}
-.fondo_rectoria p {font-size: 14px;color: #fff!important;margin-top: 10px;}
-
+.fondo_rectoria h1 {font-size: 1.5rem!important;font-weight: 900;color: #fff!important;
+line-height: 1.7;font-family: SF-Pro-Display-Ultralight;letter-spacing: 1.7px;}
+.fondo_rectoria p {font-size: 14px;color: #b1e4ffe3!important;margin-top: 10px;
+font-family: Maison-Neue-Light;}
 .fondo_rectoria .nombre_egresado {font-size: 1rem;text-transform: uppercase;color: #fff;
 margin-top: 1rem;}
-
 .fondo_rectoria .especialidad_egresado {font-size: 12px;color: #00dcff;
 width: 50%;font-weight: 100;line-height: 1.5;}
 
-.fondo_rectoria h5.doctora {font-size: 1rem!important;color: #fff!important;}
-.fondo_rectoria h5.primera {font-size: 14px;color:#03FAEB;font-weight: 200;}
+.fondo_rectoria h5.doctora {font-size: 1rem!important;color: #fff!important;
+font-family:Maison-Neue-Bold;}
+.fondo_rectoria h5.primera {font-size: 14px;color:#03FAEB;font-family:Maison-Neue-Light-Italic;}
 .fondo_rectoria hr.regla{margin-top: 4rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #00dcff;}
 .fondo_rectoria h3.nuestros_egresados {color: #fff;font-size: 1.5rem;margin-top: 5rem;}
 .fondo_rectoria .foto_egresado { margin-right: 5rem; margin-left: -20px; }
@@ -136,74 +142,55 @@ width: 50%;font-weight: 100;line-height: 1.5;}
 width: 5%;float: left;}
 .titulo{text-transform: uppercase;font-size: 1.5rem;}
 .parrafo {font-size: 15px;font-family: sans-serif;text-align: left;}
+.fondo_rectoria .rectora {margin-right:.8rem!important;}
+
 
 
 /*EGREASDOS*/
 .fondo_egresados { background: #17499e}
-.egresados h1 {font-size: 1.2rem!important;font-weight: 200;color: #fff!important;line-height: 1.7;}
+
+.egresados h1 {font-size: 1.5rem!important;font-weight: 200;color: #fff!important;
+line-height: 1.3;font-family: SF-Pro-Display-Light;}
 .egresados .nombre_egresado {font-size: 1rem;text-transform: uppercase;color: #fff;
-margin-top: 1rem;}
-
+margin-top: 1rem;font-family:Maison-Neue-Bold; font-weight: 900;}
 .egresados .especialidad_egresado {font-size: 14px;color: #00dcff;
-width:100%;font-weight: 100;line-height: 1.5;}
-
+width:100%;font-weight: 100;line-height: 1.5; font-family:Maison-Neue-Light;}
 .egresados h5.doctora {font-size: 1rem!important;color: #fff!important;}
-
 .egresados h5.primera {font-size: 14px;color:#03FAEB;font-weight: 200;}
-
 .egresados hr.regla{margin-top: 4rem;margin-bottom: 3rem;border: 0;border-top: 1px solid #00dcff; width: 100%;}
-
-.egresados h3.nuestros_egresados {color: #fff;font-size: 1.5rem;margin-top: 5rem;}
-
+.egresados h3.nuestros_egresados {color: #fff;font-size: 1.5rem;margin-top: 5rem;
+font-family:Maison-Neue-Bold;}
 .egresados .titulo{text-transform: uppercase;font-size: 1.5rem;}
-
 .egresados .datos_egresados { position: relative; z-index: 8000;}
-
 .egresados li.egresado_foto:hover { cursor: pointer;}
-
 .egresados .parrafo {font-size: 15px;font-family: sans-serif;text-align: left;}
-
 .egresados hr.regla_egresados {margin-top: 1rem;margin-bottom: 3rem;border-top: 5px solid #0077FF;
 width: 5%;float: left;}
-
 .egresados .foto_egresado { margin-right: 5rem; margin-left: -20px;background-size: cover;
 background-repeat: no-repeat;background-position: center;border-radius: 30px;height: 400px;}
-
 .egresados ul.lista_egresados li {list-style-type: none;float: left;
 width: 25%;height: 180px;margin-right: 2rem;background-size: cover;background-repeat: no-repeat;
 background-position: center;border-radius: 30px; text-align: center;}
-
 .egresados ul.lista_egresados li a.lista_egresado {float: left;vertical-align: bottom;
     margin-top: 183px;color: #fff;text-align: center;font-size: 12px; width: 100%; display: block;
   text-transform: uppercase;}
-
 .egresados ul.lista_egresados li img {border-radius: 35px;}
-
 .egresados ul.lista_egresados { margin-left: -40px;}
-
 .egresados .carousel-item { height: auto!important;min-height: 280px!important;}
-
 .egresados .carousel-indicators li {position: relative;-ms-flex: 0 1 auto;
 flex: 0 1 auto;width:25px;height: 25px;margin-right: 12px;margin-left: 3px;
 border-radius: 30px;
 text-indent: -999px;background-color: rgba(255,255,255,.5);}
-
 .egresados .carousel-indicators .active {background-color: #fff;}
-
 .egresados .carousel-indicators li:hover {cursor:pointer;background-color: #0077ff;}
 
 .egresados .ver_mas_egresado a {background: #0077FF;color: #fff;font-size: 2rem;
 border-radius: 25px 0 15px 0;-webkit-border-radius: 25px 0 15px 0;padding: 1px 10px 10px 15px;
 display: flex;width: 50px; float: right; margin-top:344px; height:56px;}
-
 .egresados .ver_mas_egresado a:hover {text-decoration: none;background-color: blue;}
-
 .egresados .facultad_egresado { margin: 4px 5px 5px 5px;}
-
 .egresados .facultad_egresado img {width:20%;}
-
 .egresados .espacio_egresados { padding-left: 30px;}
-
 .fondo_rectoria ul.lista_egresados {margin-left: -3rem;}
 
 
