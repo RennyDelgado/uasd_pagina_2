@@ -12,10 +12,8 @@
 
 .carousel-item { height:700px;min-height: 350px;background-repeat: no-repeat;
 background-size: cover;background-position: center center;}
-
 .carousel-caption .titulo {font-size: 3.5rem;font-weight: bold;text-align: left;
 margin-top: -35px;font-family: SF-Pro-Display-Bold;}
-
 .carousel-inner .descripcion {font-size:1.1rem;text-align:left;font-family:Maison-Neue-Light;}
 
 .invisible {display:none!important;}
@@ -54,65 +52,70 @@ font-family:Maison-Neue-Light;}
 .servicios .btn-primary {font-family:Maison-Neue-Bold;padding: 15px 40px 15px 40px;
 border-radius: 30px;}
 
-
-
 /*FACULTADES*/
-.facultades .card h5 {font-size: 1rem;text-align: center; text-transform: uppercase;}
-.facultades .card  p { font-size: 14px; color: darkslategrey;text-align: center;}
+.facultades .card h5 {font-size: 1rem;text-align: center; text-transform: uppercase;
+font-family: SF-Pro-Display-Bold;}
+.facultades .card  p {font-size: 14px; color: darkslategrey;text-align: center;
+font-family:Maison-Neue-Light;}
+.facultades .card  p  a{color:#828282;}
 .facultades .no-blanco {background-color:transparent!important;}
-
-.facultades hr.regla_egresados {margin-top: 1rem;border-top: 5px solid #0077FF;
-width: 5%;float: left;}
-
+.facultades hr.regla_facultades {margin-top: 1rem;border-top:8px solid #0077FF;
+width: 8%;float: left;}
 hr.regla_titulo {margin-top: 1rem;border-top: 5px solid #0077FF;width: 5%;
 float: left;}
-
 hr.regla {margin-top: 1rem;border-top: 5px solid #0077FF;width: 5%;
 float: left;}
-
 .fondo-facultades { background-image:url(../img/fondo_facultades.png);
 padding-bottom:2rem;}
+.facultades h3.titulo_facultades { font-family:Maison-Neue-Bold; font-size:1.7rem;}
+.facultades p {font-family:Maison-Neue-Light;}
+.facultades .btn-primary {font-family: Maison-Neue-Bold;padding: 15px 40px 15px 40px;
+border-radius: 30px; margin-top: 20px;}
+
+
 
 /*UNIVERSIRATIO*/
-
 .banner-universitario {-webkit-border-radius: 30px;-moz-border-radius: 30px;
 border-radius:30px;height:500px;}
-
-#universitario a.ampliar-universitario {color: #fff;text-decoration: underline;}
-
+#universitario { margin-top: 40px;}
+#universitario a.ampliar-universitario {color: #fff;text-decoration: underline;
+font-family:SF-Pro-Display-Light;font-size: 1.2rem;}
 #universitario a.ampliar-universitario:hover {text-decoration: none;}
-
 #universitario .carousel-caption {position: absolute;right: 15%;bottom: 20px;left: 10%;
 top: 30%!important;z-index: 10;padding-top: 0px;padding-bottom: 20px;color: #fff;
 text-align: center;width: 80%;}
-
-#universitario .carousel-caption .titulo {font-size: 2rem;font-weight: bold;
-text-align: center;margin-top: 112px;}
-
+#universitario .carousel-caption .titulo {font-size:2.5rem;font-weight: bold;
+text-align: center;margin-top:100px;font-family:SF-Pro-Display-Bold; text-transform:inherit;}
 .mas-noticias .fondo-noticia {width: 100%;height: 170px;background-position: center center;
 background-size: cover;background-repeat: no-repeat;-webkit-border-radius: 20px;
 -moz-border-radius: 20px;border-radius:20px;padding: 10px;}
-
+.mas-noticias .card-body p {font-family:SF-Pro-Display-Light;letter-spacing: 0.7px;}
 .mas-noticias .fondo-noticia a.deportes {background-color: red;color: #fff;
 padding: 5px 20px 5px 20px;-webkit-border-radius: 20px;-moz-border-radius: 20px;
 border-radius:20px;font-size: 12px;}
-
+.mas-noticias .fondo-noticia a {font-family:SF-Pro-Display-Regular;}
+.mas-noticias a.enlace {font-family:SF-Pro-Display-Light;letter-spacing:0.8px;
+text-decoration: underline;}
 .mas-noticias .fondo-noticia a.academia {background-color: #17499F;color: #fff;
 padding: 5px 20px 5px 20px;-webkit-border-radius: 20px;-moz-border-radius: 20px;
 border-radius:20px;font-size: 12px;}
-
 .mas-noticias .fondo-noticia a.ciencia {background-color: #00BAEC;color: #fff;
 padding: 5px 20px 5px 20px;-webkit-border-radius: 20px;-moz-border-radius: 20px;
 border-radius:20px;font-size: 12px;}
-
 .mas-noticias .fondo-noticia a.centros {background-color: #0077FF;color: #fff;
 padding: 5px 20px 5px 20px;-webkit-border-radius: 20px;-moz-border-radius: 20px;
 border-radius:20px;font-size: 12px;}
-
 .pie-universitario .alineado { text-align: center;}
-
 .pie-universitario .revista {background-position: center center;background-size: cover;
 background-repeat: no-repeat;background-size: auto;}
+.pie-universitario p{font-family:SF-Pro-Display-Light;letter-spacing: 0.8px;}
+.pie-universitario a.impresa {font-family:SF-Pro-Display-Semibold; color:#828282;
+text-decoration: underline;}
+.pie-universitario a.enlace {font-family:SF-Pro-Display-Light;text-decoration: underline;}
+.universitario h3.titulo_universitario {font-family: Maison-Neue-Bold;font-size: 1.7rem;}
+.universitario hr.regla_universitario {margin-top: 1rem;border-top: 8px solid #0077FF;
+width: 8%;float: left;}
+
 
 /*RECTORIA*/
 .fondo_rectoria {display: block;width: 100%;height: auto;background-image: url(../img/fondo_rectoria_pagina.jpg);
@@ -129,7 +132,6 @@ font-family: Maison-Neue-Light;}
 margin-top: 1rem;}
 .fondo_rectoria .especialidad_egresado {font-size: 12px;color: #00dcff;
 width: 50%;font-weight: 100;line-height: 1.5;}
-
 .fondo_rectoria h5.doctora {font-size: 1rem!important;color: #fff!important;
 font-family:Maison-Neue-Bold;}
 .fondo_rectoria h5.primera {font-size: 14px;color:#03FAEB;font-family:Maison-Neue-Light-Italic;}
@@ -144,11 +146,8 @@ width: 5%;float: left;}
 .parrafo {font-size: 15px;font-family: sans-serif;text-align: left;}
 .fondo_rectoria .rectora {margin-right:.8rem!important;}
 
-
-
 /*EGREASDOS*/
 .fondo_egresados { background: #17499e}
-
 .egresados h1 {font-size: 1.5rem!important;font-weight: 200;color: #fff!important;
 line-height: 1.3;font-family: SF-Pro-Display-Light;}
 .egresados .nombre_egresado {font-size: 1rem;text-transform: uppercase;color: #fff;
@@ -164,8 +163,8 @@ font-family:Maison-Neue-Bold;}
 .egresados .datos_egresados { position: relative; z-index: 8000;}
 .egresados li.egresado_foto:hover { cursor: pointer;}
 .egresados .parrafo {font-size: 15px;font-family: sans-serif;text-align: left;}
-.egresados hr.regla_egresados {margin-top: 1rem;margin-bottom: 3rem;border-top: 5px solid #0077FF;
-width: 5%;float: left;}
+.egresados hr.regla_egresados{margin-top: 1rem;border-top:8px solid #0077FF;width:8%;
+float:left;}
 .egresados .foto_egresado { margin-right: 5rem; margin-left: -20px;background-size: cover;
 background-repeat: no-repeat;background-position: center;border-radius: 30px;height: 400px;}
 .egresados ul.lista_egresados li {list-style-type: none;float: left;
@@ -183,14 +182,13 @@ border-radius: 30px;
 text-indent: -999px;background-color: rgba(255,255,255,.5);}
 .egresados .carousel-indicators .active {background-color: #fff;}
 .egresados .carousel-indicators li:hover {cursor:pointer;background-color: #0077ff;}
-
 .egresados .ver_mas_egresado a {background: #0077FF;color: #fff;font-size: 2rem;
 border-radius: 25px 0 15px 0;-webkit-border-radius: 25px 0 15px 0;padding: 1px 10px 10px 15px;
 display: flex;width: 50px; float: right; margin-top:344px; height:56px;}
 .egresados .ver_mas_egresado a:hover {text-decoration: none;background-color: blue;}
 .egresados .facultad_egresado { margin: 4px 5px 5px 5px;}
 .egresados .facultad_egresado img {width:20%;}
-.egresados .espacio_egresados { padding-left: 30px;}
+.egresados .espacio_egresados { padding-left: 30px;margin-top: 50px!important;}
 .fondo_rectoria ul.lista_egresados {margin-left: -3rem;}
 
 
@@ -202,80 +200,50 @@ display: flex;width: 50px; float: right; margin-top:344px; height:56px;}
 .agenda .dias {width: 20%;float: left;}
 .agenda .datos {float: left;display: block;width: 75%;margin-left: 15px;
 margin-top: 20px;color: #fff;}
-
 .agenda .agenda_dias ul{ list-style-type: none;}
-
 .agenda .agenda_dias ul li.activo {background: #fff;width: 100%;padding: 10px;
-border-radius: 40px;text-align: center;margin-top: 1rem;}
-
-.agenda .agenda_dias ul li:hover {
-  background-color: #80bcdc;
-}
+border-radius: 40px;text-align: center;margin-top: 1rem;margin-top: 1rem;
+font-family:SF-Pro-Display-Light;}
+.agenda .agenda_dias ul li {font-family:SF-Pro-Display-Light;}
+.agenda .agenda_dias ul li:hover {background-color: #80bcdc;}
 .agenda .agenda_dias ul li {background: #B1E4FF;width: 90%;padding: 8px;border-radius: 30px;
-text-align: center;margin-top: 1rem;margin-bottom:25.5px;}
-
+text-align: center;margin-top: 1rem;margin-bottom:30px;}
 .agenda{ padding: 0px!important;}
-
-.agenda .datos .hora_detalle {margin-top: 1rem;font-size: 1.5rem;margin-bottom: 2rem;}
-
-.agenda .datos .fecha {font-size: 2rem;}
-
+.agenda .datos .hora_detalle {margin-top: 1rem;font-size: 1.5rem;margin-bottom: 2rem;
+font-family:SF-Pro-Display-Thin;}
+.agenda .datos .fecha {font-size: 2rem;font-family:SF-Pro-Display-Thin;}
 .agenda .datos .dealle {border-bottom: solid 1px #b1e4ff;margin-bottom: 2rem;
-padding-bottom: 1rem;}
-
-.agenda .datos .ubicacion { font-size: 1.3rem;}
-
+padding-bottom: 1rem; font-family:SF-Compact-Text-Regular;}
+.agenda .datos .ubicacion { font-size: 1.3rem;font-family:SF-Pro-Display-Thin;}
 .agenda .detalle-dias hr.regla{margin-top: 1rem;margin-bottom:3rem;border: 0;
 width: 10%;border-top: 7px solid #0077FF;float: left;}
-
-.agenda .detalle-dias h3 {text-transform: uppercase;font-size: 1.3rem;}
-
+.agenda .detalle-dias h3 {text-transform: uppercase;font-size: 1.3rem;
+font-family:Maison-Neue-Bold;}
 .agenda .detalle-dias .hora_agenda {text-transform: uppercase;color: #0077FF;
-font-size: 1.2rem;font-weight: bold; float: left; margin-right: 1rem;}
-
+font-size: 1.2rem;font-weight: bold; float: left; margin-right: 1rem;
+font-family:SF-Pro-Display-Bold;}
 .agenda .detalle-dias hr.regla{margin-top:10px;margin-bottom:3rem;border: 0;
 width:5%;border-top: 10px solid;float: left;}
-
 .agenda .detalle-dias p.texto_agenda{display: block;float: left;margin-top: -2rem;}
 .agenda .detalle-dias .ubicacion { display: block;float: left;}
 .agenda .detalle-dias .lugar_icono{display: block;float: left;margin-right: 1rem;}
 .agenda .detalle-dias .regla_divicion {border: solid 0.5px #dadada;float: left;
 width: 100%;}
-.agenda .detalle-dias .todas-actividades {float: right;margin-top: -4rem;
-margin-right: 2rem;background-color: #288fe0;padding: 10px 20px 10px 20px;
-border-radius: 23px;color: #fff;font-size: 14px;position: relative;z-index: 50000;
-}
-
-.agenda .detalle-dias .carousel-indicators {
-    position: absolute;
-    /* right: 0; */
-    bottom: 10px;
-    /* left: 0; */
-    z-index: 15;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-pack: center;
-    justify-content: left;
-    padding-left: 0;
-    margin-right: 15%;
-    margin-left: 3%;
-    width: 30%;
-    /* list-style: none; */
-}
-.agenda .detalle-dias .carousel-indicators .active {background-color: #288fe0;}
+.agenda .detalle-dias .todas-actividades {float:right;margin-top:-4rem;margin-right: 2rem;
+background-color: #288fe0;padding: 15px 30px 15px 30px;border-radius: 23px;color: #fff;
+font-size: 14px;position: relative;z-index: 50000;font-family: Maison-Neue-Bold;
+margin-bottom: 55px;}
+.agenda hr.regla_agenda {margin-top: 1rem;border-top: 7px solid #0077FF;width: 10%;
+float: left;}
+.agenda .detalle-dias .carousel-indicators {position: absolute;bottom: 10px;
+z-index: 15;display: -ms-flexbox;display: flex;-ms-flex-pack: center;justify-content: left;
+padding-left: 0;margin-right: 15%;margin-left: 3%;width: 30%;}
+.agenda .detalle-dias .carousel-indicators .active{background-color: #ffffff;
+border-radius: 16px;height: 25px;border: 5px solid #1382df;width: 25px;}
 .agenda .detalle-dias .carousel-indicators li:hover {cursor:pointer;background-color: #135e98;}
-.agenda .detalle-dias .carousel-indicators li {
-  position: relative;
-    -ms-flex: 0 1 auto;
-    flex: 0 1 auto;
-    width: 30px;
-    height: 15px;
-    margin-right: 10px;
-    margin-left: 10px;
-    text-indent: -999px;
-    background-color:rgba(148, 143, 143, 0.5);
-}
-
+.agenda .detalle-dias .carousel-indicators li {position: relative;-ms-flex: 0 1 auto;
+flex: 0 1 auto;width: 25px;border-radius: 20px;border: solid 5px #0d78dc;height: 25px;
+margin-right:10px;margin-left:10px;text-indent:-999px;background-color:rgba(148, 143, 143, 0.5);}
 .agenda .detalle-dias .carousel-item {height: 600px;min-height: 350px;
 background-repeat: no-repeat;background-size: cover;background-position: center center;}
 
@@ -283,33 +251,42 @@ background-repeat: no-repeat;background-size: cover;background-position: center 
 /*COMVENIOS*/
 .convenios{background-color: #f5f5f569;}
 .convenios .parrafo {font-size: 15px;font-family: sans-serif;text-align: left;display: block;
-margin-top: 5rem;width: 56%;}
+margin-top: 5rem;width: 56%; font-family:SF-Compact-Text-Regular}
 .convenios .lista-convenios {text-align:center; justify-content:center;}
 .convenios .lista-convenios img{filter: grayscale(1);
   transition-property: filter;transition-duration: 1s; width:70%;}
 .convenios .lista-convenios img:hover {filter: grayscale(0%);}
+.convenios h3.titulo{font-family: Maison-Neue-Bold;}
+.convenios hr.regla{margin-top: 1rem;border-top: 8px solid #0077FF;width: 7%;float:left;}
+.convenios .btn-primary{background-color: #288fe0;padding: 15px 30px 15px 30px;
+border-radius: 23px;color: #fff;font-size: 14px;position: relative;z-index: 50000;
+font-family: Maison-Neue-Bold;margin-bottom:30px;margin-top: 30px;}
+.convenios a.btn-primary:hover{text-decoration: underline;}
+
 
 /*ADMINISTRATIVO*/
 .fondo-administrativo {
-  background-image: linear-gradient( rgba(4, 65, 117, 0.75), rgba(10, 134, 220, 0.87)),url(../img/edificio_administrativo.png);
-  background-repeat: no-repeat;background-size: cover;}
-.administrativo ul li a {color: #fff;text-decoration: none;}
+background-image: linear-gradient( rgba(4, 65, 117, 0.75), rgba(10, 134, 220, 0.87)),url(../img/edificio_administrativo.png);
+background-repeat: no-repeat;background-size: cover;}
+.administrativo ul li a {color: #fff;text-decoration: none;
+font-family:SF-Pro-Display-Light;letter-spacing: 2px;}
 .administrativo ul li a:hover {color: #fff;text-decoration:underline;}
 .administrativo ul li {list-style-type: none;margin-bottom:10px;}
 .administrativo h3.titulo-menu {color: #fff;font-size: 1.2rem;display: block;margin-left: 40px;
-margin-bottom:2rem;font-weight:bold;}
-
-.administrativo h3 {color: #fff;font-size: 1.54rem;display: block;}
+margin-bottom:2rem;font-weight:bold;font-family: Maison-Neue-Bold;}
+.administrativo h3 {color: #fff;font-size: 1.54rem;display: block;font-family: Maison-Neue-Bold;}
+.administrativo .hr.regla{margin-top:1rem;border-top:8px solid #0077FF;width:7%;float:left;}
 
 
 /*PIE DE PAGINA*/
-.pie_de_pagina ul li a {color: #fff;text-decoration: none;font-size: 14px;}
+.pie_de_pagina ul li a {color:#B1E4FF;text-decoration: none;font-size: 14px;
+font-family:SF-Pro-Display-Light;letter-spacing: 2px;}
 .pie_de_pagina ul li a:hover {color: #fff;text-decoration:underline;}
 .pie_de_pagina ul li {list-style-type: none;margin-bottom:5px;}
 .pie_de_pagina ul.redes_sociales li {list-style-type: none;margin-bottom:5px;float: left;margin-right: 20px;}
 a.enlace_redes {float: left;color: #fff;margin-top: 2rem;}
 .pie_de_pagina h3.titulo-menu {color: #fff;font-size: 1.2rem;display: block;margin-left: 40px;
-margin-bottom:2rem;font-weight:bold;}
+margin-bottom:2rem;font-weight:bold;font-family: Maison-Neue-Bold;}
 .pie_de_pagina  h3 { color: #fff;font-size: 1.54rem;display: block;}
 .pie_de_pagina .linea_pie { border-top:solid 1px #155dda;}
 .color-pie {background-color: #17499F;}

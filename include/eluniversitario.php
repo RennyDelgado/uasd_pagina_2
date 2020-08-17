@@ -3,8 +3,8 @@
   <div class="row">
 
   		<div class="col-lg-12 mt-5 p-0">
-  			<h3 class="nuestros_egresados">EL UNIVERSITARIO</h3>
-  			<hr class="regla_titulo"></hr>
+  			<h3 class="titulo_universitario">EL UNIVERSITARIO</h3>
+  			<hr class="regla_universitario"></hr>
   		</div>
   	</div>
 
@@ -60,7 +60,7 @@
      </div>
   		  <div class="card-body">
               <p>Vicerrector de extensión UASD afirma esa institución cumple con su responsabilidad social</p>
-            <a href="#" class="enlace">CONOCE MAS</a>
+            <a href="#" class="enlace">CONOCE MÁS</a>
       </div>
   </div>
 
@@ -70,7 +70,7 @@
      </div>
   		  <div class="card-body">
               <p>Vicerrector de extensión UASD afirma esa institución cumple con su responsabilidad social</p>
-            <a href="#" class="enlace">CONOCE MAS</a>
+            <a href="#" class="enlace">CONOCE MÁS</a>
       </div>
   </div>
 
@@ -80,7 +80,7 @@
      </div>
         <div class="card-body">
               <p>Vicerrector de extensión UASD afirma esa institución cumple con su responsabilidad social</p>
-            <a href="#" class="enlace">CONOCE MAS</a>
+            <a href="#" class="enlace">CONOCE MÁS</a>
       </div>
   </div>
 
@@ -90,7 +90,7 @@
      </div>
   		  <div class="card-body">
               <p>Vicerrector de extensión UASD afirma esa institución cumple con su responsabilidad social</p>
-            <a href="#" class="enlace">CONOCE MAS</a>
+            <a href="#" class="enlace">CONOCE MÁS </a>
       </div>
   </div>
   </div>
@@ -103,13 +103,12 @@
               <a href="#" class="mt-5">UASD.EDU.DO/PERIODICO</a>
         </div>
     </div>
-
     <div class="alineado card col-lg-6 col-md-6 col-xs-6 revista justify-content-end">
           <a href="#">
-            <img  class="play" src="img/universitario_periodico-2.jpg" alt="">
+            <img  class="enlace" src="img/universitario_periodico-2.jpg" alt="">
           </a>
 
-          <a href="#" class="version_impresa">VERSION IMPRESA</a>
+          <a href="#" class="impresa">VERSION IMPRESA</a>
     </div>
 
   </div>

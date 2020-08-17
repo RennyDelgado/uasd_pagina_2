@@ -54,7 +54,7 @@
 
 <div id="agenda_demo1" class="carousel slide content active" data-ride="carousel">
 <h3>agenda | JUEVES, 20 de junio de 2020</h3>
-  <hr class="regla_titulo">
+  <hr class="regla_agenda">
           <ol class="carousel-indicators">
              <li data-target="#agenda_demo1" data-slide-to="0" class="active"></li>
              <li data-target="#agenda_demo1" data-slide-to="1"></li>
@@ -154,7 +154,7 @@
 <!-- SEGUNDA PARTE DE LA AGENDA -->
 <div id="agenda_demo2" class="carousel slide eventos_dia content" data-ride="carousel">
   <h3>agenda | VIERNES, 22 de junio de 2019</h3>
-  <hr class="regla_titulo">
+  <hr class="regla_agenda">
           <ol class="carousel-indicators">
              <li data-target="#agenda_demo2" data-slide-to="0" class="active"></li>
              <li data-target="#agenda_demo2" data-slide-to="1"></li>
@@ -254,7 +254,7 @@
 <!-- TERCERA PARTE DE LA AGENDA -->
 <div id="agenda_demo3" class="carousel slide eventos_dia content" data-ride="carousel">
 <h3>agenda | SABADO, 23 de junio de 2019</h3>
-  <hr class="regla_titulo">
+  <hr class="regla_agenda">
           <ol class="carousel-indicators">
              <li data-target="#agenda_demo3" data-slide-to="0" class="active"></li>
              <li data-target="#agenda_demo3" data-slide-to="1"></li>

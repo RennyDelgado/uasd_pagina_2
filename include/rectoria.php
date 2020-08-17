@@ -33,7 +33,7 @@
 
 		<div class="col-2 col-lg-7 col-md-2 col-xl-7 float-left">
 			<img src="img/conoce_rectora.png" alt="" class="img-fluid float-left mr-2 rectora">
-			<h1>Hoy comienza la UASD que todos y todas soñamos”</h1>
+			<h1>”Hoy comienza la UASD que todos y todas soñamos”</h1>
 			<p>
 			Ahora es tiempo de trabajar sin descanso, para que el sueño de todos y todas no sólo sea una inspiración motivadora, sino una realidad cotidiana en cada espacio y en cada aula de nuestra Primada de América
 			</p>
