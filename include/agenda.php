@@ -44,7 +44,7 @@
                 Señor Ignacio Ramonet, de la facultad de Humanidades</p>
               <p class="ubicacion">Paraninfo Facultad de Ciencias Económicas y
                 Sociales</p>
-                <img src="img/ubicacion-2.png" alt="">
+                <img src="img/ubicacion-2.png" alt="" class="icono_ubicacion">
            </div>
           </div>
 		</div>

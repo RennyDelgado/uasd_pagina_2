@@ -19,7 +19,7 @@
 <!-- partial:index.partial.html -->
   <div class="container">
     <div class="row">
-          <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12  menu-top mt-1 mb-2">
+          <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12  menu-top mt-1 mb-2 pr-0">
             <div class="menu float-right mt-2 justify-content-center justify-content-lg-end text-center
             text-uppercase">
               <a href="#" class="link">TRANSPARENCIA</a>
@@ -27,23 +27,22 @@
               <a href="#" class="link">CORREO</a>
               <a href="#" class="link">INTRANET</a>
               <a href="#" class="link">EGRESADOS</a>
-              <span class="seccion"><a href="#">INICIAR SESION</a></span>
-              <a href="#"><img src="img/session.svg" alt=""></a>
-              <a href="#"><img src="img/buscar.svg" alt=""></a>
+              <span class="seccion d-sm-none link"><a href="#">INICIAR SESION</a></span>
+              <a href="#" class="link"><img src="img/session.svg" alt=""></a>
+              <a href="#">
+                <img src="img/buscar.svg" alt="">
+              </a>
             </div>
           </div>
     </div>
   </div>
 
 <div class="container-fluid fondo-menu">
- <div class="row justify-content-center aling-items-center">
-  <center>
-  <div class="col-12">
-
+ <div class="container">
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
    <nav class="navbar navbar-expand-lg navbar-light bg-light ml-1">
 
     <a href="#" class="navbar-brand">
-
       <img src="img/logo_uasd.svg" alt=""
       class="img-fluid float-right d-none d-sm-none d-md-block mr-3">
 
@@ -220,7 +219,6 @@
    </nav>
   </div>
 
-</center>
 
  </div>
 </div>

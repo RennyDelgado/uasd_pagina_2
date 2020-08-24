@@ -105,7 +105,7 @@
     </div>
     <div class="alineado card col-lg-6 col-md-6 col-xs-6 revista justify-content-end">
           <a href="#">
-            <img  class="enlace" src="img/universitario_periodico-2.jpg" alt="">
+            <img  class="enlace img-fluid" src="img/universitario_periodico-2.jpg" alt="">
           </a>
 
           <a href="#" class="impresa">VERSION IMPRESA</a>

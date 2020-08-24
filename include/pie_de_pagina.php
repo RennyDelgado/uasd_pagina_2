@@ -109,11 +109,13 @@
 	</div>
   </div>
   </div>
+
+<footer>
 <div class="container-fluid pie_final">
 <div class="container">
-<center>
-    <div class="col-lg-10 mt-2">
-      <div class="col">
+  <div class="row justify-content-center">
+    <div class="col-9 mt-2">
+      <center>
           <ul>
             <li> <a href="#"> ACCESIBILIDAD</a> </li>
             <li> <a href="#"> POLÍTICAS DE PRIVACIDAD</a> </li>
@@ -121,13 +123,11 @@
             <li> <a href="#"> CONTACTOS  </a> </li>
             <li> <a href="#"> MAPA DEL SITIO </a> </li>
           </ul>
-        </div>
-          <div class="col-lg-10">
           <p>© 2019 Universidad Autónoma de Santo Domingo - Primada de América, Fundada el 28 de octubre de 1538<br>
           Alma Máter, Santo Domingo, República Dominicana Teléfono: 1 (809) 535-8273 | Fax: 1 (809)508-7374  |  info@uasd.edu.do</p>
-          </div>
-
+        </center>
     </div>
-</center>
+  </div>
  </div>
 </div>
+</footer>
