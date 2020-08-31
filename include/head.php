@@ -39,8 +39,8 @@
 
 <div class="container-fluid fondo-menu">
  <div class="container">
-  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-   <nav class="navbar navbar-expand-lg navbar-light bg-light ml-1">
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 margen_movil">
+   <nav class="navbar navbar-expand-lg navbar-light bg-light ml-1 margen_movil">
 
     <a href="#" class="navbar-brand">
       <img src="img/logo_uasd.svg" alt=""

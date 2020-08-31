@@ -4,9 +4,7 @@
 
 <center> <img class="img-fluid mt-5" src="img/logo_uasd_pie.svg" alt=""> </center>
 
-
     <div class="row linea_pie mt-5">
-
 
     <div class="row pb-5 pt-5">
           <div class="col-3">
