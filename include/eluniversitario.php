@@ -2,7 +2,7 @@
 
   <div class="row">
 
-  		<div class="col-lg-12 mt-5 p-0">
+  		<div class="col-lg-12 mt-5">
   			<h3 class="titulo_universitario">EL UNIVERSITARIO</h3>
   			<hr class="regla_universitario"></hr>
   		</div>

@@ -11,7 +11,7 @@
 	</div>
 
 
-<div class="row mt-5">
+<div class="row mt-5 movil_facultad">
 
 <div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/humanidades.svg">
@@ -37,11 +37,6 @@
   	</div>
 </div>
 
-
-</div>
-
-<div class="row mt-5">
-
 <div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/juridica.svg">
 		  <div class="card-body">
@@ -66,12 +61,6 @@
   	</div>
 </div>
 
-</div>
-
-
-
-<div class="row mt-5">
-
 <div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
 	  <img class="img-fluid" src="img/facultades/agronomia.svg">
 		  <div class="card-body">
@@ -88,7 +77,7 @@
   	</div>
 </div>
 
-<div class="no-blanco card col-lg-4 col-md-4 col-xs-4">
+<div class="no-blanco card col-lg-4 col-md-4 col-xs-4 ultima_movil">
 	  <img class="img-fluid" src="img/facultades/educacion.svg">
 		  <div class="card-body">
             <h5 class="card-title">ciencias de la educación</h5>
