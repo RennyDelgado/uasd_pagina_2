@@ -151,6 +151,9 @@ border-radius: 50px;margin-bottom: 20px;}
 .fondo_rectoria .rectora-informacion {float:left;width:53%;display:block;margin-left:20px;}
 .fondo_rectoria .rectora-contenedor{width:45%;float: left;height: auto;display: block;
 margin-left:-20px;}
+.fondo_rectoria .menu_colapso { display: none;}
+.fondo_rectoria .menu_rectoria {margin-bottom: 20px;}
+.fondo_rectoria .sobre_la_uasd { padding: 0px!important;}
 
 
 /*EGREASDOS*/
@@ -305,6 +308,7 @@ margin-bottom:2rem;font-weight:bold;font-family: Maison-Neue-Bold;}
 .pie_final ul li {list-style-type: none;margin-bottom:20px;float: left;border-right: solid 1px silver;}
 .pie_final p { float: left; display: block; font-size: 13px;width: 80%;}
 
+.menu_colapso {display: none;}
 
 
 @media only screen and (min-width:1680px) and (max-width:1920px) {
@@ -312,9 +316,11 @@ margin-bottom:2rem;font-weight:bold;font-family: Maison-Neue-Bold;}
 .carousel-caption {position: absolute;right: 15%;bottom: 20px;left: 19%;top: 18%!important;
 z-index: 10;padding-top: 0px;padding-bottom: 20px;color: #fff;text-align: center;width: 60%;}
 
+.fondo_rectoria .sobre_la_uasd { padding: 0px!important;}
+
+.menu_colapso {display: none;}
+
 }
-
-
 
 
 /*PC ALTO*/
@@ -325,6 +331,14 @@ text-align: center;}
 
 .carousel-caption {position: absolute;right: 15%;bottom: 20px;left: 15%;top: 18%!important;
 z-index: 10;padding-top: 0px;padding-bottom: 20px;color: #fff;text-align: center;width: 71%;}
+
+.fondo_rectoria .menu_colapso { display: none;}
+.fondo_rectoria .sobre_la_uasd { padding: 0px!important;}
+.fondo_rectoria {display: block;width: 100%;height: auto;
+background-image: url(../img/fondo_rectoria_pagina.jpg);background-size: cover;
+padding-top: 400px;margin-top: 50px;}
+
+.menu_colapso {display: none;}
 
  }
 
@@ -343,6 +357,10 @@ margin-left: 0px;}
 
 .fondo_rectoria .rectora {margin-right: 1.8rem!important;background-color: #efefef;
 border-radius: 50px;margin-bottom: 20px;}
+
+.fondo_rectoria .sobre_la_uasd { padding: 0px!important;}
+
+.fondo_rectoria .sobre_la_uasd {padding-right: 15px;padding-left: 15px; }
 
 .carousel-caption .titulo {font-size: 3rem;font-weight: bold;text-align: left;
 margin-top: -35px;font-family: SF-Pro-Display-Bold;}
@@ -378,6 +396,8 @@ font-family: Maison-Neue-Bold;margin-bottom: 60px;}
 z-index: 15;display: -ms-flexbox;display: flex;-ms-flex-pack: center;justify-content: left;
 padding-left: 0;margin-right: 0%;margin-left: 3%;top: 103%;width: 34%;}
 
+.menu_colapso {display: none;}
+
 }
 
 /*BANNER MOVIL: ;*/
@@ -386,39 +406,36 @@ padding-left: 0;margin-right: 0%;margin-left: 3%;top: 103%;width: 34%;}
 .carousel-caption {position: absolute;right: 15%;bottom: 20px;left: 15%;
 top: 18%!important;z-index: 10;padding-top: 0px;padding-bottom: 20px;
 color: #fff;text-align: center;width: 82%;}
-
 .descripcion {font-size: 1.5rem;text-align: left;display: none;}
-
 .carousel-caption .titulo {font-size:1.2rem;font-weight: bold;text-align: left;
 margin-bottom: 25px;margin-top:20px;}
 
 .navbar-toggler {padding: .25rem .25rem;}
-
 .menu .link { display: none;}
 
 .margen_movil { margin:0px!important; padding:0px!important;}
-
 .carousel-item {height: 415px;min-height: 350px;background-repeat: no-repeat;
 background-size: cover;background-position: center center;}
-
 .servicios .card {width:50%!important;}
 
 .fondo_rectoria {display: block;width: 100%;height: auto;
 background-image: url(../img/fondo_rectoria_pagina.jpg);background-position: center center;
 background-size: auto;padding-top: 31px;margin-top: 50px;}
-
-.fondo_rectoria h4 { color: #fff;font-size: 1.3rem;font-family: Maison-Neue-Bold-Italic;
-margin-top: 25px;}
-
+.fondo_rectoria h4 {color: #fff;font-size: 1.3rem;font-family: Maison-Neue-Bold-Italic;
+margin-top: 14px;float: left;display: block;width: 90%;margin-left: 0px;}
 .fondo_rectoria .rectora-contenedor {width: 100%;float: left;height: auto;display: block;
 margin-top: 20px;margin-left: 0px;}
-
 .fondo_rectoria .rectora-informacion {float:left;width: 100%;display: block;margin-left:0px;}
-
 .fondo_rectoria .mt-5 {margin-top: 0px!important;}
-
 .fondo_rectoria h1 {font-size: 1.3rem!important;font-weight: 900;color: #fff!important;
 line-height: 1.7;font-family: SF-Pro-Display-Ultralight;letter-spacing: 1.7px;}
+.fondo_rectoria .menu_sobre_la_uasd {display: none;float:left;}
+.fondo_rectoria .menu_rectoria {display: none;float:left;}
+.fondo_rectoria .menu_vice_rectoria {display: none;float:left;}
+.fondo_rectoria .menu_colapso {display: block;width:25px;float: left;margin-top: 10px;}
+.fondo_rectoria .rectora {margin-right: 0!important;background-color: #efefef;
+border-radius: 50px;margin-bottom: 20px;margin-left:0px;}
+.fondo_rectoria .sobre_la_uasd {padding-right:15px!important;padding-left:15px!important;}
 
 .egresados hr.regla {margin-top: 1rem;margin-bottom: 0rem;border: 0;
 border-top: 1px solid #00dcff;width: 100%;}
@@ -459,7 +476,6 @@ padding-left: 0;margin-right: 15%;margin-left: 15%;list-style: none;}
 font-family: Maison-Neue-Light;padding: 0px;}
 .facultades .ultima_movil {width: 100%!important;}
 
-
 .universitario hr.regla_universitario {margin-top: 1rem;border-top: 8px solid #0077FF;
 width: 50px;float: left;}
 .universitario .carousel-item {height: 330px;min-height: 320px;background-repeat: no-repeat;
@@ -470,7 +486,6 @@ border-radius: 30px;height: 330px;}
 .universitario .mas-noticias .card {margin: 20px!important;}
 .universitario .pie-universitario {display: none;}
 
-
 #universitario .carousel-caption .titulo {font-size: 1.3rem;font-weight: bold;
 text-align: center;margin-top: 100px;font-family: SF-Pro-Display-Bold;
 text-transform: inherit;}
@@ -479,7 +494,6 @@ top: 0%!important;z-index: 10;padding-top: 0px;padding-bottom: 20px;color: #fff;
 text-align: center;width: 80%;}
 #universitario {margin-top: 20px;}
 
-
 .agenda .datos {float: left;display: block;width: 80%;margin-left: 20px;margin-top: 20px;
 color: #fff;}
 .agenda .agenda_dias ul {list-style-type: none;margin-left: -30px;}
@@ -487,6 +501,74 @@ color: #fff;}
 height: auto;float: left;}
 .agenda .datos {float: left;display: block;width: 80%;margin-left: 0px;margin-top: 20px;
 color: #fff;}
+
+.agenda .agenda_dias ul li.activo {background: #fff;width: 35px;height: 35px;padding: 5px;
+border-radius: 30px;text-align: center;margin-top: 1rem;margin-bottom: 20px;
+font-family: SF-Pro-Display-Light;}
+
+.agenda .agenda_dias ul li {background: #B1E4FF;width: 35px;height: 35px;padding: 6px;
+border-radius: 30px;text-align: center;margin-top: 1rem;margin-bottom: 20px;
+font-family: SF-Pro-Display-Light;}
+
+.agenda .datos .fecha {font-size: 25px;font-family: SF-Pro-Display-Thin;margin-left: 20px;}
+
+.agenda .datos .hora_detalle {margin-top: 10px;font-size: 20px;margin-bottom: 10px;
+font-family: SF-Pro-Display-Thin;margin-left: 20px;}
+
+.agenda .datos .dealle {border-bottom:solid 1px #b1e4ff;margin-bottom:10px;padding-bottom: 1rem;
+font-family: SF-Compact-Text-Regular;margin-left: 20px;font-size: 14px;width: 90%;}
+
+.agenda .detalle-dias .todas-actividades {float: right;margin-top:60px;margin-right: 20px;
+background-color: #288fe0;padding: 15px 30px 15px 30px;border-radius: 23px;color: #fff;
+font-size: 14px;position: relative;z-index: 50000;font-family: Maison-Neue-Bold;
+margin-bottom: 21px;}
+
+.agenda .detalle-dias .carousel-indicators{position: absolute;bottom: 10px;z-index: 15;
+display: -ms-flexbox;display: flex;-ms-flex-pack: center;justify-content: left;padding-left: 0;
+margin-right: 20px;margin-left: 48px;width: 60%;}
+
+.agenda .detalle-dias .carousel-indicators li {position: relative;-ms-flex: 0 1 auto;
+flex: 0 1 auto;width: 25px;border-radius: 20px;border: solid 5px #0d78dc;height: 25px;
+margin-right: 10px;top:60px;margin-left: 10px;text-indent: -999px;
+background-color: rgba(148, 143, 143, 0.5);}
+
+.convenios .convenio_movil { padding: 0px!important;margin-top: 20px;}
+.convenios h3.titulo {font-family: Maison-Neue-Bold;margin-top: 20px;font-size: 20px;}
+.convenios hr.regla {margin-top: 10px;border-top: 8px solid #0077FF;width: 50px;float: left;}
+.convenios .parrafo {font-size: 15px;text-align: left;display: block;margin-top: 45px;
+width: 100%;font-family: SF-Compact-Text-Regular;}
+.convenios .lista-convenios {text-align: center;justify-content: center;margin:0px!important;}
+.convenios .lista-convenios .detalle {width: 50%;float: left;padding: 10px;}
+
+.administrativo {padding: 0px!important;}
+.administrativo hr.regla {margin-top: 0px;border-top: 5px solid #0077FF;width: 40px;
+float: left;margin-left: 15px;}
+.administrativo h3 {color: #fff;font-size: 1.54rem;display: block;font-family: Maison-Neue-Bold;
+margin: 20px 10px 10px 15px;}
+.administrativo .administrativo_movil {padding: 0px!important;}
+.administrativo ul {display: none; float: left;}
+.administrativo h3.titulo-menu {color: #fff;font-size: 16px;display: block;margin-left: 40px;
+margin-bottom: 2rem;font-weight:bold;font-family:Maison-Neue-Bold;float: left;display: block;}
+.administrativo .menu_administativo {width:100%;float:left;display:block;margin-left:-20px;
+padding: 0px;}
+.administrativo .menu_colapso {display: block;width: 25px;float: right;margin-top:15px;}
+
+.pie_de_pagina ul { display: none;}
+.pie_de_pagina h3.titulo-menu {color: #fff;font-size: 1.2rem;display: block;margin-left: 0px;
+margin-bottom: 2rem;font-weight: bold;font-family: Maison-Neue-Bold;}
+.pie_de_pagina .menu_colapso{display: block;width:25px;float:right;margin-top:-60px;}
+.pie_de_pagina ul {margin-left: -40px;margin-top: -20px;}
+.pie_final p {float: left;display: block;font-size: 13px;width: 100%;}
+.pie_final ul li {list-style-type: none;margin-bottom: 0px;
+border-bottom: solid 1px silver!important;}
+.pie_final ul li a {color: #5f5f5f;text-decoration: none;font-size: 14px;}
+
+
+
+
+
+
+
 
 
 

@@ -7,9 +7,12 @@
     <div class="row linea_pie mt-5">
 
     <div class="row pb-5 pt-5">
-          <div class="col-3">
+          <div class="col-lg-3 col-md-3 col-xs-4">
                 <h3 class="titulo-menu">VICERRECTORÍAS</h3>
-                <ul>
+                <a href="javascript:void(0);" class="menu_boton7">
+            			<img src="img/menu_rectorias.png" alt="" class="menu_colapso">
+            		</a>
+                <ul class="menu_pie_vicerectorias">
                   <li> <a href="#"> Docente</a> </li>
                   <li> <a href="#"> Administrativa</a> </li>
                   <li> <a href="#"> Investigación y Postgrado</a> </li>
@@ -17,7 +20,10 @@
                 </ul>
 
                 <h3 class="titulo-menu">FACULTADES</h3>
-                <ul>
+                <a href="javascript:void(0);" class="menu_boton8">
+            			<img src="img/menu_rectorias.png" alt="" class="menu_colapso">
+            		</a>
+                <ul class="menu_pie_facultades">
                   <li> <a href="#"> Humanidades</a> </li>
                   <li> <a href="#"> Ciencias</a> </li>
                   <li> <a href="#"> Ciencias Económicas y Sociales</a> </li>
@@ -29,14 +35,20 @@
                 </ul>
           </div>
 
-          <div class="col-3">
+          <div class="col-lg-3 col-md-3 col-xs-4">
                 <h3 class="titulo-menu">RECINTOS</h3>
-                <ul>
+                <a href="javascript:void(0);" class="menu_boton9">
+            			<img src="img/menu_rectorias.png" alt="" class="menu_colapso">
+            		</a>
+                <ul class="menu_pie_recintos">
                   <li> <a href="#"> Recinto San Francisco de Macorís</a> </li>
                   <li> <a href="#"> Recinto Santiago</a> </li>
                 </ul>
                 <h3 class="titulo-menu">CENTROS</h3>
-                <ul>
+                <a href="javascript:void(0);" class="menu_boton10">
+            			<img src="img/menu_rectorias.png" alt="" class="menu_colapso">
+            		</a>
+                <ul class="menu_pie_centros">
                   <li> <a href="#">Centro Nagua</a> </li>
                   <li> <a href="#">Centro Mao</a> </li>
                   <li> <a href="#">Centro Bonao</a> </li>
@@ -53,15 +65,20 @@
                   <li> <a href="#">Centro Santo Domingo Este</a> </li>
                 </ul>
                 <h3 class="titulo-menu">SUB-CENTROS</h3>
-                <ul>
+                <a href="javascript:void(0);" class="menu_boton11">
+            			<img src="img/menu_rectorias.png" alt="" class="menu_colapso">
+            		</a>
+                <ul class="menu_pie_sub_centro">
                   <li> <a href="#">Santiago Rodríguez</a> </li>
                   <li> <a href="#">Neyba</a> </li>
-
                 </ul>
           </div>
-          <div class="col-3">
+          <div class="col-lg-3 col-md-3 col-xs-4">
                 <h3 class="titulo-menu">INSTITUTOS</h3>
-                <ul>
+                <a href="javascript:void(0);" class="menu_boton12">
+            			<img src="img/menu_rectorias.png" alt="" class="menu_colapso">
+            		</a>
+                <ul class="menu_pie_institutos">
                   <li> <a href="#"> Criminología</a> </li>
                   <li> <a href="#"> Filosofía</a> </li>
                   <li> <a href="#"> Historia</a> </li>
@@ -85,9 +102,12 @@
                   <li> <a href="#"> Investigaciones Socioeconómicas (INISE)</a> </li>
                 </ul>
           </div>
-          <div class="col-3">
+          <div class="col-lg-3 col-md-3 col-xs-4">
                 <h3 class="titulo-menu">UASD DIGITAL</h3>
-                <ul>
+                <a href="javascript:void(0);" class="menu_boton13">
+            			<img src="img/menu_rectorias.png" alt="" class="menu_colapso">
+            		</a>
+                <ul class="menu_pie_uasd_digital">
                   <li> <a href="#"> Aplicaciones</a> </li>
                   <li> <a href="#"> El Universitario Digital</a> </li>
                   <li> <a href="#"> UASD TV Online</a> </li>
@@ -95,6 +115,9 @@
                 </ul>
 
                 <h3 class="titulo-menu">REDES SOCIALES</h3>
+                <a href="javascript:void(0);" class="menu_boton14">
+            			<img src="img/menu_rectorias.png" alt="" class="menu_colapso">
+            		</a>
                 <ul class="redes_sociales">
                   <li> <a href="#"> <img src="img/fb.svg"></a> </li>
                   <li> <a href="#"> <img src="img/TW.svg"></a> </li>
